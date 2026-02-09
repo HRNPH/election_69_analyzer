@@ -49,6 +49,32 @@ Run the comparer to analyze the correlation between winning MP numbers and the t
 python scripts/mp_pl_comparer.py
 ```
 
+To also export JSON results and update the dashboard data, use the `--export` flag:
+```bash
+python scripts/mp_pl_comparer.py --export
+```
+This writes timestamped results to `docs/data/results.json` and appends a snapshot to `docs/data/history.json`.
+
+## 🌐 Live Dashboard
+
+A static HTML dashboard is available in `docs/index.html` and is automatically deployed to **GitHub Pages**. It visualizes:
+- Summary statistics (total areas, match count, match rate)
+- Bar chart of matches by party
+- Filterable area-by-area detail table
+- Scrape history over time
+
+## ⚙️ Automated Pipeline (GitHub Actions)
+
+A workflow (`.github/workflows/scrape-and-deploy.yml`) runs **every hour** to:
+1. Scrape the latest election data from Thai PBS
+2. Run the correlation analysis and export JSON results
+3. Commit updated data back to the repository
+4. Deploy the dashboard to GitHub Pages
+
+The workflow can also be triggered manually via `workflow_dispatch`.
+
+> **Setup**: Enable GitHub Pages in the repository settings (Settings → Pages → Source: GitHub Actions).
+
 ## 📝 Methodology
 The analyzer extracts the "MP Number" from the `candidateCode` of the winning constituency candidate. It then checks if that number matches the last two digits of any `partyCode` ranked #1 through #7 in the Party List for that same area. 
 
