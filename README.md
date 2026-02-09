@@ -36,7 +36,7 @@ Ensure you have Python 3.12+ installed.
 
 The analysis is performed in two sequential steps:
 
-### 1. Data Collection
+### 1. Data Collection (if raw data updating is needed)
 Execute the scraper to download the latest unofficial results from Thai PBS. This process builds a local database in the `data/` directory.
 ```bash
 python scripts/election_scraper.py
