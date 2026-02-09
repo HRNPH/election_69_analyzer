@@ -1,0 +1,40 @@
+{
+    "area_code": 6102,
+    "entries": [
+        {
+            "candidateCode": "CANDIDATE-MP-610202",
+            "partyCode": "PARTY-0037",
+            "rank": 1,
+            "voteTotal": 50967,
+            "votePercent": 71.91
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-610203",
+            "partyCode": "PARTY-0046",
+            "rank": 2,
+            "voteTotal": 10529,
+            "votePercent": 14.86
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-610201",
+            "partyCode": "PARTY-0009",
+            "rank": 3,
+            "voteTotal": 7436,
+            "votePercent": 10.49
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-610204",
+            "partyCode": "PARTY-0027",
+            "rank": 4,
+            "voteTotal": 1769,
+            "votePercent": 2.5
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-610205",
+            "partyCode": "PARTY-0042",
+            "rank": 5,
+            "voteTotal": 173,
+            "votePercent": 0.24
+        }
+    ]
+}

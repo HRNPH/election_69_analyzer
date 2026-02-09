@@ -1,0 +1,75 @@
+{
+    "area_code": 5102,
+    "entries": [
+        {
+            "candidateCode": "CANDIDATE-MP-510203",
+            "partyCode": "PARTY-0046",
+            "rank": 1,
+            "voteTotal": 46583,
+            "votePercent": 41.92
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-510206",
+            "partyCode": "PARTY-0009",
+            "rank": 2,
+            "voteTotal": 33089,
+            "votePercent": 29.78
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-510201",
+            "partyCode": "PARTY-0037",
+            "rank": 3,
+            "voteTotal": 10698,
+            "votePercent": 9.63
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-510207",
+            "partyCode": "PARTY-0027",
+            "rank": 4,
+            "voteTotal": 6007,
+            "votePercent": 5.41
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-510204",
+            "partyCode": "PARTY-0011",
+            "rank": 5,
+            "voteTotal": 4931,
+            "votePercent": 4.44
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-510208",
+            "partyCode": "PARTY-0006",
+            "rank": 6,
+            "voteTotal": 2750,
+            "votePercent": 2.47
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-510202",
+            "partyCode": "PARTY-0042",
+            "rank": 7,
+            "voteTotal": 2732,
+            "votePercent": 2.46
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-510209",
+            "partyCode": "PARTY-0043",
+            "rank": 8,
+            "voteTotal": 2573,
+            "votePercent": 2.32
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-510205",
+            "partyCode": "PARTY-0044",
+            "rank": 9,
+            "voteTotal": 1490,
+            "votePercent": 1.34
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-510210",
+            "partyCode": "PARTY-0024",
+            "rank": 10,
+            "voteTotal": 271,
+            "votePercent": 0.24
+        }
+    ]
+}

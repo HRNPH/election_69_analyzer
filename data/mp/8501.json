@@ -1,0 +1,40 @@
+{
+    "area_code": 8501,
+    "entries": [
+        {
+            "candidateCode": "CANDIDATE-MP-850104",
+            "partyCode": "PARTY-0037",
+            "rank": 1,
+            "voteTotal": 56553,
+            "votePercent": 71.07
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-850101",
+            "partyCode": "PARTY-0046",
+            "rank": 2,
+            "voteTotal": 13643,
+            "votePercent": 17.15
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-850102",
+            "partyCode": "PARTY-0027",
+            "rank": 3,
+            "voteTotal": 6995,
+            "votePercent": 8.79
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-850103",
+            "partyCode": "PARTY-0009",
+            "rank": 4,
+            "voteTotal": 1507,
+            "votePercent": 1.89
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-850105",
+            "partyCode": "PARTY-0042",
+            "rank": 5,
+            "voteTotal": 871,
+            "votePercent": 1.09
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "area_code": 6004,
+    "entries": [
+        {
+            "candidateCode": "CANDIDATE-MP-600402",
+            "partyCode": "PARTY-0037",
+            "rank": 1,
+            "voteTotal": 51575,
+            "votePercent": 69.91
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-600405",
+            "partyCode": "PARTY-0046",
+            "rank": 2,
+            "voteTotal": 11113,
+            "votePercent": 15.06
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-600406",
+            "partyCode": "PARTY-0009",
+            "rank": 3,
+            "voteTotal": 5667,
+            "votePercent": 7.68
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-600401",
+            "partyCode": "PARTY-0011",
+            "rank": 4,
+            "voteTotal": 2759,
+            "votePercent": 3.74
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-600404",
+            "partyCode": "PARTY-0042",
+            "rank": 5,
+            "voteTotal": 1264,
+            "votePercent": 1.71
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-600403",
+            "partyCode": "PARTY-0027",
+            "rank": 6,
+            "voteTotal": 1249,
+            "votePercent": 1.69
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-600407",
+            "partyCode": "PARTY-0008",
+            "rank": 7,
+            "voteTotal": 146,
+            "votePercent": 0.2
+        }
+    ]
+}

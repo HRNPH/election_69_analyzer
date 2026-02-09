@@ -1,0 +1,40 @@
+{
+    "area_code": 2503,
+    "entries": [
+        {
+            "candidateCode": "CANDIDATE-MP-250302",
+            "partyCode": "PARTY-0037",
+            "rank": 1,
+            "voteTotal": 42918,
+            "votePercent": 55.33
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-250303",
+            "partyCode": "PARTY-0046",
+            "rank": 2,
+            "voteTotal": 21562,
+            "votePercent": 27.8
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-250301",
+            "partyCode": "PARTY-0009",
+            "rank": 3,
+            "voteTotal": 9651,
+            "votePercent": 12.44
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-250304",
+            "partyCode": "PARTY-0027",
+            "rank": 4,
+            "voteTotal": 2464,
+            "votePercent": 3.18
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-250305",
+            "partyCode": "PARTY-0029",
+            "rank": 5,
+            "voteTotal": 972,
+            "votePercent": 1.25
+        }
+    ]
+}

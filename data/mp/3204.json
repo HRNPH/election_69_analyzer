@@ -1,0 +1,82 @@
+{
+    "area_code": 3204,
+    "entries": [
+        {
+            "candidateCode": "CANDIDATE-MP-320407",
+            "partyCode": "PARTY-0037",
+            "rank": 1,
+            "voteTotal": 40070,
+            "votePercent": 58.55
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320401",
+            "partyCode": "PARTY-0009",
+            "rank": 2,
+            "voteTotal": 13037,
+            "votePercent": 19.05
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320409",
+            "partyCode": "PARTY-0046",
+            "rank": 3,
+            "voteTotal": 10241,
+            "votePercent": 14.96
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320403",
+            "partyCode": "PARTY-0042",
+            "rank": 4,
+            "voteTotal": 1545,
+            "votePercent": 2.26
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320404",
+            "partyCode": "PARTY-0043",
+            "rank": 5,
+            "voteTotal": 847,
+            "votePercent": 1.24
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320408",
+            "partyCode": "PARTY-0011",
+            "rank": 6,
+            "voteTotal": 731,
+            "votePercent": 1.07
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320406",
+            "partyCode": "PARTY-0027",
+            "rank": 7,
+            "voteTotal": 565,
+            "votePercent": 0.83
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320402",
+            "partyCode": "PARTY-0030",
+            "rank": 8,
+            "voteTotal": 463,
+            "votePercent": 0.68
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320411",
+            "partyCode": "PARTY-0023",
+            "rank": 9,
+            "voteTotal": 343,
+            "votePercent": 0.5
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320410",
+            "partyCode": "PARTY-0006",
+            "rank": 10,
+            "voteTotal": 319,
+            "votePercent": 0.47
+        },
+        {
+            "candidateCode": "CANDIDATE-MP-320405",
+            "partyCode": "PARTY-0018",
+            "rank": 11,
+            "voteTotal": 280,
+            "votePercent": 0.41
+        }
+    ]
+}
