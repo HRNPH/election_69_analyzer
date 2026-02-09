@@ -1,0 +1,4623 @@
+{
+  "timestamp": "2026-02-09T15:21:58.945555+00:00",
+  "total_areas": 400,
+  "matched_areas": 253,
+  "match_rate": 63.25,
+  "summary_by_party": [
+    {
+      "party_code": "PARTY-0037",
+      "match_count": 140
+    },
+    {
+      "party_code": "PARTY-0009",
+      "match_count": 47
+    },
+    {
+      "party_code": "PARTY-0042",
+      "match_count": 44
+    },
+    {
+      "party_code": "PARTY-0027",
+      "match_count": 5
+    },
+    {
+      "party_code": "PARTY-0046",
+      "match_count": 4
+    },
+    {
+      "party_code": "PARTY-0021",
+      "match_count": 4
+    },
+    {
+      "party_code": "PARTY-0033",
+      "match_count": 4
+    },
+    {
+      "party_code": "PARTY-0043",
+      "match_count": 3
+    },
+    {
+      "party_code": "PARTY-0048",
+      "match_count": 1
+    },
+    {
+      "party_code": "PARTY-0044",
+      "match_count": 1
+    }
+  ],
+  "matches": [
+    {
+      "area": "1033",
+      "mp_number": "11",
+      "mp_party": "PARTY-0046",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0011"
+    },
+    {
+      "area": "1105",
+      "mp_number": "11",
+      "mp_party": "PARTY-0046",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0011"
+    },
+    {
+      "area": "1106",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "1302",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "1307",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "1308",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "1402",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0007"
+    },
+    {
+      "area": "1403",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "1404",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "1405",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0007"
+    },
+    {
+      "area": "1501",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "1502",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "1601",
+      "mp_number": "08",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0008"
+    },
+    {
+      "area": "1602",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "1604",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "1701",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "1801",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "1802",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "1901",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "1902",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "1903",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "1904",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "2003",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "2004",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "2005",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "2008",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "2103",
+      "mp_number": "05",
+      "mp_party": "PARTY-0027",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "2104",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "2201",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "2202",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "2203",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "2301",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "2401",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "2402",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "2403",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "2501",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "2502",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "2503",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "2601",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "2701",
+      "mp_number": "05",
+      "mp_party": "PARTY-0043",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "2703",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3002",
+      "mp_number": "08",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0008"
+    },
+    {
+      "area": "3004",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3005",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "3006",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "3007",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3008",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "3009",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3010",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3011",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3012",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3013",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3015",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3016",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3101",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3102",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3103",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "3104",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3106",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3107",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3108",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3109",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3110",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3201",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3202",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0007"
+    },
+    {
+      "area": "3203",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3204",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0007"
+    },
+    {
+      "area": "3205",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3206",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3207",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3208",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3301",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3302",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3303",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3304",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3305",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3306",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3308",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3309",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3401",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3402",
+      "mp_number": "05",
+      "mp_party": "PARTY-0021",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3404",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "3405",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3406",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3407",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "3409",
+      "mp_number": "03",
+      "mp_party": "PARTY-0021",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3410",
+      "mp_number": "02",
+      "mp_party": "PARTY-0021",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3411",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3501",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3502",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3503",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3601",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "3602",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3603",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "3604",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3605",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3606",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3607",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "3701",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3702",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "3803",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "3902",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "3903",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "4003",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "4004",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "4005",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4006",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "4007",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "4008",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4009",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "4010",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "4102",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "4103",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "4104",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4105",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4106",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "4110",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "4201",
+      "mp_number": "07",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0007"
+    },
+    {
+      "area": "4202",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "4203",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4204",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "4301",
+      "mp_number": "04",
+      "mp_party": "PARTY-0043",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "4302",
+      "mp_number": "03",
+      "mp_party": "PARTY-0043",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4303",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "4402",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "4404",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4405",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "4406",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "4501",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "4502",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "4503",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4506",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "4507",
+      "mp_number": "04",
+      "mp_party": "PARTY-0048",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "4602",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "4604",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "4605",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "4606",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4703",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "4705",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "4706",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "4707",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "4801",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "4802",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "4803",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "4804",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "4902",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "5006",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "5007",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "5009",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "5010",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "5102",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "5202",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "5204",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "5301",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "5302",
+      "mp_number": "04",
+      "mp_party": "PARTY-0044",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "5303",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "5402",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "5502",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "5503",
+      "mp_number": "02",
+      "mp_party": "PARTY-0046",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "5601",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "5602",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "5603",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "5702",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "5703",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "5704",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "5705",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "5706",
+      "mp_number": "07",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0007"
+    },
+    {
+      "area": "5801",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "5802",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "6001",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "6002",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "6003",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "6004",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6005",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "6006",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6101",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6102",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6201",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6202",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "6203",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "6301",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "6302",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6401",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "6402",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6403",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "6404",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "6504",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "6505",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "6602",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6603",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6701",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "6703",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6704",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0007"
+    },
+    {
+      "area": "6705",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "6706",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "7001",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "7002",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "7003",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "7004",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "7101",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "7102",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "7103",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "7104",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "7105",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "7201",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "7202",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "7204",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "7205",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "7301",
+      "mp_number": "08",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0008"
+    },
+    {
+      "area": "7302",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "7304",
+      "mp_number": "08",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0008"
+    },
+    {
+      "area": "7402",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "7404",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "7601",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "7602",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "7603",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "7702",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "8002",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "8003",
+      "mp_number": "01",
+      "mp_party": "PARTY-0027",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "8008",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "8101",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "8102",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "8103",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "8201",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "8402",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "8403",
+      "mp_number": "05",
+      "mp_party": "PARTY-0021",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "8405",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "9001",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "9003",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "9004",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "9005",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "9007",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "9008",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "9009",
+      "mp_number": "02",
+      "mp_party": "PARTY-0027",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "9101",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "9201",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "9202",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "9203",
+      "mp_number": "05",
+      "mp_party": "PARTY-0027",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "9204",
+      "mp_number": "02",
+      "mp_party": "PARTY-0027",
+      "pl_rank": 4,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "9302",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0001"
+    },
+    {
+      "area": "9401",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "9402",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "9403",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "9404",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "9405",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "9501",
+      "mp_number": "03",
+      "mp_party": "PARTY-0033",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "9502",
+      "mp_number": "07",
+      "mp_party": "PARTY-0033",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0007"
+    },
+    {
+      "area": "9503",
+      "mp_number": "03",
+      "mp_party": "PARTY-0033",
+      "pl_rank": 7,
+      "pl_party_code": "PARTY-0003"
+    },
+    {
+      "area": "9601",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0004"
+    },
+    {
+      "area": "9602",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "9603",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0002"
+    },
+    {
+      "area": "9604",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "pl_rank": 5,
+      "pl_party_code": "PARTY-0005"
+    },
+    {
+      "area": "9605",
+      "mp_number": "01",
+      "mp_party": "PARTY-0033",
+      "pl_rank": 6,
+      "pl_party_code": "PARTY-0001"
+    }
+  ],
+  "details": [
+    {
+      "area": "1001",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1002",
+      "mp_number": "02",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1003",
+      "mp_number": "09",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1004",
+      "mp_number": "02",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1005",
+      "mp_number": "06",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1006",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1007",
+      "mp_number": "08",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1008",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1009",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1010",
+      "mp_number": "06",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1011",
+      "mp_number": "15",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1012",
+      "mp_number": "15",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1013",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1014",
+      "mp_number": "14",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1015",
+      "mp_number": "08",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1016",
+      "mp_number": "10",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1017",
+      "mp_number": "10",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1018",
+      "mp_number": "10",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1019",
+      "mp_number": "06",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1020",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1021",
+      "mp_number": "08",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1022",
+      "mp_number": "06",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1023",
+      "mp_number": "15",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1024",
+      "mp_number": "06",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1025",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1026",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1027",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1028",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1029",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1030",
+      "mp_number": "15",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1031",
+      "mp_number": "12",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1032",
+      "mp_number": "15",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1033",
+      "mp_number": "11",
+      "mp_party": "PARTY-0046",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 11)"
+    },
+    {
+      "area": "1101",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1102",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1103",
+      "mp_number": "04",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1104",
+      "mp_number": "02",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1105",
+      "mp_number": "11",
+      "mp_party": "PARTY-0046",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 11)"
+    },
+    {
+      "area": "1106",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "1107",
+      "mp_number": "08",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1108",
+      "mp_number": "09",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1201",
+      "mp_number": "08",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1202",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1203",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1204",
+      "mp_number": "02",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1205",
+      "mp_number": "08",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1206",
+      "mp_number": "04",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1207",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1208",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1301",
+      "mp_number": "04",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1302",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 01)"
+    },
+    {
+      "area": "1303",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1304",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1305",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1306",
+      "mp_number": "08",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1307",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "1308",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "1401",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1402",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 07)"
+    },
+    {
+      "area": "1403",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "1404",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "1405",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 07)"
+    },
+    {
+      "area": "1501",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "1502",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "1601",
+      "mp_number": "08",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 08)"
+    },
+    {
+      "area": "1602",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "1603",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "1604",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "1701",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "1801",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "1802",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "1901",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "1902",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "1903",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "1904",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "2001",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2002",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2003",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 02)"
+    },
+    {
+      "area": "2004",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "2005",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "2006",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2007",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2008",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "2009",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2010",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2101",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2102",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2103",
+      "mp_number": "05",
+      "mp_party": "PARTY-0027",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "2104",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "2105",
+      "mp_number": "02",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2201",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 01)"
+    },
+    {
+      "area": "2202",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "2203",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "2301",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 01)"
+    },
+    {
+      "area": "2401",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "2402",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "2403",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "2404",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2501",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 01)"
+    },
+    {
+      "area": "2502",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "2503",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "2601",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "2602",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2701",
+      "mp_number": "05",
+      "mp_party": "PARTY-0043",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "2702",
+      "mp_number": "06",
+      "mp_party": "PARTY-0043",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "2703",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "3001",
+      "mp_number": "07",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3002",
+      "mp_number": "08",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 08)"
+    },
+    {
+      "area": "3003",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3004",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "3005",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "3006",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "3007",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "3008",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "3009",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "3010",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "3011",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 03)"
+    },
+    {
+      "area": "3012",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "3013",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "3014",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3015",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "3016",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "3101",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "3102",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "3103",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 01)"
+    },
+    {
+      "area": "3104",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 03)"
+    },
+    {
+      "area": "3105",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3106",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 04)"
+    },
+    {
+      "area": "3107",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "3108",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "3109",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "3110",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "3201",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "3202",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 07)"
+    },
+    {
+      "area": "3203",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 04)"
+    },
+    {
+      "area": "3204",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 07)"
+    },
+    {
+      "area": "3205",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 04)"
+    },
+    {
+      "area": "3206",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 04)"
+    },
+    {
+      "area": "3207",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 04)"
+    },
+    {
+      "area": "3208",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "3301",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "3302",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "3303",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 04)"
+    },
+    {
+      "area": "3304",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "3305",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "3306",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "3307",
+      "mp_number": "06",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3308",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "3309",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "3401",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 02)"
+    },
+    {
+      "area": "3402",
+      "mp_number": "05",
+      "mp_party": "PARTY-0021",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "3403",
+      "mp_number": "01",
+      "mp_party": "PARTY-0021",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3404",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "3405",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "3406",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "3407",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "3408",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3409",
+      "mp_number": "03",
+      "mp_party": "PARTY-0021",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "3410",
+      "mp_number": "02",
+      "mp_party": "PARTY-0021",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "3411",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "3501",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "3502",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 03)"
+    },
+    {
+      "area": "3503",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "3601",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "3602",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 03)"
+    },
+    {
+      "area": "3603",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 01)"
+    },
+    {
+      "area": "3604",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "3605",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "3606",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "3607",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "3701",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "3702",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "3801",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3802",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3803",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 01)"
+    },
+    {
+      "area": "3901",
+      "mp_number": "09",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "3902",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "3903",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "4001",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4002",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4003",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "4004",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "4005",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "4006",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "4007",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "4008",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "4009",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "4010",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "4011",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4101",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4102",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "4103",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "4104",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 03)"
+    },
+    {
+      "area": "4105",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "4106",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "4107",
+      "mp_number": "06",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4108",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4109",
+      "mp_number": "06",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4110",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "4201",
+      "mp_number": "07",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 07)"
+    },
+    {
+      "area": "4202",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "4203",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "4204",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "4301",
+      "mp_number": "04",
+      "mp_party": "PARTY-0043",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "4302",
+      "mp_number": "03",
+      "mp_party": "PARTY-0043",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "4303",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "4401",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4402",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "4403",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4404",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "4405",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "4406",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "4501",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "4502",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "4503",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "4504",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4505",
+      "mp_number": "06",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4506",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "4507",
+      "mp_number": "04",
+      "mp_party": "PARTY-0048",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "4508",
+      "mp_number": "06",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4601",
+      "mp_number": "06",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4602",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "4603",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4604",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "4605",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "4606",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 03)"
+    },
+    {
+      "area": "4701",
+      "mp_number": "06",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4702",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4703",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 04)"
+    },
+    {
+      "area": "4704",
+      "mp_number": "06",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4705",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "4706",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "4707",
+      "mp_number": "03",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "4801",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 01)"
+    },
+    {
+      "area": "4802",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 01)"
+    },
+    {
+      "area": "4803",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "4804",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 01)"
+    },
+    {
+      "area": "4901",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "4902",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "5001",
+      "mp_number": "02",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5002",
+      "mp_number": "08",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5003",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5004",
+      "mp_number": "06",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5005",
+      "mp_number": "09",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5006",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "5007",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "5008",
+      "mp_number": "04",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5009",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "5010",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 04)"
+    },
+    {
+      "area": "5101",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5102",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "5201",
+      "mp_number": "08",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5202",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "5203",
+      "mp_number": "04",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5204",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "5301",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "5302",
+      "mp_number": "04",
+      "mp_party": "PARTY-0044",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "5303",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "5401",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5402",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "5403",
+      "mp_number": "04",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5501",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5502",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "5503",
+      "mp_number": "02",
+      "mp_party": "PARTY-0046",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "5601",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "5602",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "5603",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 01)"
+    },
+    {
+      "area": "5701",
+      "mp_number": "07",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5702",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "5703",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "5704",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "5705",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "5706",
+      "mp_number": "07",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 07)"
+    },
+    {
+      "area": "5707",
+      "mp_number": "06",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "5801",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 02)"
+    },
+    {
+      "area": "5802",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "6001",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "6002",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "6003",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "6004",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "6005",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "6006",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "6101",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "6102",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "6201",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "6202",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 03)"
+    },
+    {
+      "area": "6203",
+      "mp_number": "04",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "6204",
+      "mp_number": "07",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "6301",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "6302",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "6303",
+      "mp_number": "06",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "6401",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "6402",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "6403",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "6404",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "6501",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "6502",
+      "mp_number": "01",
+      "mp_party": "PARTY-0009",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "6503",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "6504",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "6505",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "6601",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "6602",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "6603",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "6701",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "6702",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "6703",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "6704",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 07)"
+    },
+    {
+      "area": "6705",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "6706",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 03)"
+    },
+    {
+      "area": "7001",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "7002",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 04)"
+    },
+    {
+      "area": "7003",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "7004",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "7005",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "7101",
+      "mp_number": "05",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "7102",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "7103",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "7104",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "7105",
+      "mp_number": "02",
+      "mp_party": "PARTY-0009",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "7201",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 01)"
+    },
+    {
+      "area": "7202",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "7203",
+      "mp_number": "06",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "7204",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "7205",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "7301",
+      "mp_number": "08",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 08)"
+    },
+    {
+      "area": "7302",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "7303",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "7304",
+      "mp_number": "08",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 08)"
+    },
+    {
+      "area": "7305",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "7306",
+      "mp_number": "01",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "7401",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "7402",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "7403",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "7404",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "7501",
+      "mp_number": "05",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "7601",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "7602",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "7603",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "7701",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "7702",
+      "mp_number": "01",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 01)"
+    },
+    {
+      "area": "7703",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8001",
+      "mp_number": "02",
+      "mp_party": "PARTY-0027",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8002",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "8003",
+      "mp_number": "01",
+      "mp_party": "PARTY-0027",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 01)"
+    },
+    {
+      "area": "8004",
+      "mp_number": "05",
+      "mp_party": "PARTY-0027",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8005",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8006",
+      "mp_number": "03",
+      "mp_party": "PARTY-0027",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8007",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8008",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 01)"
+    },
+    {
+      "area": "8009",
+      "mp_number": "07",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8101",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "8102",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "8103",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 05)"
+    },
+    {
+      "area": "8201",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "8202",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8301",
+      "mp_number": "03",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8302",
+      "mp_number": "06",
+      "mp_party": "PARTY-0046",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8303",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8401",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8402",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "8403",
+      "mp_number": "05",
+      "mp_party": "PARTY-0021",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "8404",
+      "mp_number": "05",
+      "mp_party": "PARTY-0027",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8405",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 05)"
+    },
+    {
+      "area": "8406",
+      "mp_number": "06",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8407",
+      "mp_number": "06",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8501",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8601",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8602",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "8603",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "9001",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 02)"
+    },
+    {
+      "area": "9002",
+      "mp_number": "01",
+      "mp_party": "PARTY-0027",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "9003",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "9004",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "9005",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 03)"
+    },
+    {
+      "area": "9006",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "9007",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "9008",
+      "mp_number": "03",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "9009",
+      "mp_number": "02",
+      "mp_party": "PARTY-0027",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 02)"
+    },
+    {
+      "area": "9101",
+      "mp_number": "03",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "9102",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "9201",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    },
+    {
+      "area": "9202",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 04)"
+    },
+    {
+      "area": "9203",
+      "mp_number": "05",
+      "mp_party": "PARTY-0027",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "9204",
+      "mp_number": "02",
+      "mp_party": "PARTY-0027",
+      "matched": true,
+      "status": "MATCH: Rank 4 (Party List 02)"
+    },
+    {
+      "area": "9301",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "9302",
+      "mp_number": "01",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 01)"
+    },
+    {
+      "area": "9303",
+      "mp_number": "06",
+      "mp_party": "PARTY-0042",
+      "matched": false,
+      "status": "No Match"
+    },
+    {
+      "area": "9401",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "9402",
+      "mp_number": "02",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 02)"
+    },
+    {
+      "area": "9403",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 04)"
+    },
+    {
+      "area": "9404",
+      "mp_number": "05",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 05)"
+    },
+    {
+      "area": "9405",
+      "mp_number": "04",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 04)"
+    },
+    {
+      "area": "9501",
+      "mp_number": "03",
+      "mp_party": "PARTY-0033",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 03)"
+    },
+    {
+      "area": "9502",
+      "mp_number": "07",
+      "mp_party": "PARTY-0033",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 07)"
+    },
+    {
+      "area": "9503",
+      "mp_number": "03",
+      "mp_party": "PARTY-0033",
+      "matched": true,
+      "status": "MATCH: Rank 7 (Party List 03)"
+    },
+    {
+      "area": "9601",
+      "mp_number": "04",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 04)"
+    },
+    {
+      "area": "9602",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 02)"
+    },
+    {
+      "area": "9603",
+      "mp_number": "02",
+      "mp_party": "PARTY-0042",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 02)"
+    },
+    {
+      "area": "9604",
+      "mp_number": "05",
+      "mp_party": "PARTY-0037",
+      "matched": true,
+      "status": "MATCH: Rank 5 (Party List 05)"
+    },
+    {
+      "area": "9605",
+      "mp_number": "01",
+      "mp_party": "PARTY-0033",
+      "matched": true,
+      "status": "MATCH: Rank 6 (Party List 01)"
+    }
+  ]
+}
