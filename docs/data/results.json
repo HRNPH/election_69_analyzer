@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T16:02:40.775561+00:00",
+  "timestamp": "2026-02-09T17:11:31.450975+00:00",
   "total_areas": 400,
   "matched_areas": 253,
   "match_rate": 63.25,
@@ -48,6 +48,7 @@
   "matches": [
     {
       "area": "1033",
+      "region": "กรุงเทพมหานคร เขต 33",
       "mp_number": "11",
       "mp_party": "PARTY-0046",
       "pl_rank": 6,
@@ -55,6 +56,7 @@
     },
     {
       "area": "1105",
+      "region": "นนทบุรี เขต 5",
       "mp_number": "11",
       "mp_party": "PARTY-0046",
       "pl_rank": 5,
@@ -62,6 +64,7 @@
     },
     {
       "area": "1106",
+      "region": "นนทบุรี เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -69,6 +72,7 @@
     },
     {
       "area": "1302",
+      "region": "พระนครศรีอยุธยา เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 7,
@@ -76,6 +80,7 @@
     },
     {
       "area": "1307",
+      "region": "",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -83,6 +88,7 @@
     },
     {
       "area": "1308",
+      "region": "",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -90,6 +96,7 @@
     },
     {
       "area": "1402",
+      "region": "อ่างทอง เขต 2",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -97,6 +104,7 @@
     },
     {
       "area": "1403",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -104,6 +112,7 @@
     },
     {
       "area": "1404",
+      "region": "",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -111,6 +120,7 @@
     },
     {
       "area": "1405",
+      "region": "",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -118,6 +128,7 @@
     },
     {
       "area": "1501",
+      "region": "ลพบุรี เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -125,6 +136,7 @@
     },
     {
       "area": "1502",
+      "region": "ลพบุรี เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -132,6 +144,7 @@
     },
     {
       "area": "1601",
+      "region": "สิงห์บุรี เขต 1",
       "mp_number": "08",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -139,6 +152,7 @@
     },
     {
       "area": "1602",
+      "region": "",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -146,6 +160,7 @@
     },
     {
       "area": "1604",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -153,6 +168,7 @@
     },
     {
       "area": "1701",
+      "region": "ชัยนาท เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -160,6 +176,7 @@
     },
     {
       "area": "1801",
+      "region": "สระบุรี เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -167,6 +184,7 @@
     },
     {
       "area": "1802",
+      "region": "สระบุรี เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -174,6 +192,7 @@
     },
     {
       "area": "1901",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -181,6 +200,7 @@
     },
     {
       "area": "1902",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -188,6 +208,7 @@
     },
     {
       "area": "1903",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -195,6 +216,7 @@
     },
     {
       "area": "1904",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "pl_rank": 4,
@@ -202,6 +224,7 @@
     },
     {
       "area": "2003",
+      "region": "ชลบุรี เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -209,6 +232,7 @@
     },
     {
       "area": "2004",
+      "region": "ชลบุรี เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -216,6 +240,7 @@
     },
     {
       "area": "2005",
+      "region": "ชลบุรี เขต 5",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -223,6 +248,7 @@
     },
     {
       "area": "2008",
+      "region": "ชลบุรี เขต 8",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -230,6 +256,7 @@
     },
     {
       "area": "2103",
+      "region": "ระยอง เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0027",
       "pl_rank": 7,
@@ -237,6 +264,7 @@
     },
     {
       "area": "2104",
+      "region": "ระยอง เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -244,6 +272,7 @@
     },
     {
       "area": "2201",
+      "region": "จันทบุรี เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -251,6 +280,7 @@
     },
     {
       "area": "2202",
+      "region": "จันทบุรี เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -258,6 +288,7 @@
     },
     {
       "area": "2203",
+      "region": "จันทบุรี เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -265,6 +296,7 @@
     },
     {
       "area": "2301",
+      "region": "ตราด เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -272,6 +304,7 @@
     },
     {
       "area": "2401",
+      "region": "ฉะเชิงเทรา เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -279,6 +312,7 @@
     },
     {
       "area": "2402",
+      "region": "ฉะเชิงเทรา เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -286,6 +320,7 @@
     },
     {
       "area": "2403",
+      "region": "ฉะเชิงเทรา เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -293,6 +328,7 @@
     },
     {
       "area": "2501",
+      "region": "ปราจีนบุรี เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -300,6 +336,7 @@
     },
     {
       "area": "2502",
+      "region": "ปราจีนบุรี เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -307,6 +344,7 @@
     },
     {
       "area": "2503",
+      "region": "ปราจีนบุรี เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -314,6 +352,7 @@
     },
     {
       "area": "2601",
+      "region": "นครนายก เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -321,6 +360,7 @@
     },
     {
       "area": "2701",
+      "region": "สระแก้ว เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0043",
       "pl_rank": 6,
@@ -328,6 +368,7 @@
     },
     {
       "area": "2703",
+      "region": "สระแก้ว เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -335,6 +376,7 @@
     },
     {
       "area": "3002",
+      "region": "นครราชสีมา เขต 2",
       "mp_number": "08",
       "mp_party": "PARTY-0009",
       "pl_rank": 7,
@@ -342,6 +384,7 @@
     },
     {
       "area": "3004",
+      "region": "นครราชสีมา เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -349,6 +392,7 @@
     },
     {
       "area": "3005",
+      "region": "นครราชสีมา เขต 5",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -356,6 +400,7 @@
     },
     {
       "area": "3006",
+      "region": "นครราชสีมา เขต 6",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -363,6 +408,7 @@
     },
     {
       "area": "3007",
+      "region": "นครราชสีมา เขต 7",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "pl_rank": 4,
@@ -370,6 +416,7 @@
     },
     {
       "area": "3008",
+      "region": "นครราชสีมา เขต 8",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -377,6 +424,7 @@
     },
     {
       "area": "3009",
+      "region": "นครราชสีมา เขต 9",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -384,6 +432,7 @@
     },
     {
       "area": "3010",
+      "region": "นครราชสีมา เขต 10",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -391,6 +440,7 @@
     },
     {
       "area": "3011",
+      "region": "นครราชสีมา เขต 11",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -398,6 +448,7 @@
     },
     {
       "area": "3012",
+      "region": "นครราชสีมา เขต 12",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -405,6 +456,7 @@
     },
     {
       "area": "3013",
+      "region": "นครราชสีมา เขต 13",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "pl_rank": 7,
@@ -412,6 +464,7 @@
     },
     {
       "area": "3015",
+      "region": "นครราชสีมา เขต 15",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -419,6 +472,7 @@
     },
     {
       "area": "3016",
+      "region": "นครราชสีมา เขต 16",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -426,6 +480,7 @@
     },
     {
       "area": "3101",
+      "region": "บุรีรัมย์ เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -433,6 +488,7 @@
     },
     {
       "area": "3102",
+      "region": "บุรีรัมย์ เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -440,6 +496,7 @@
     },
     {
       "area": "3103",
+      "region": "บุรีรัมย์ เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -447,6 +504,7 @@
     },
     {
       "area": "3104",
+      "region": "บุรีรัมย์ เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -454,6 +512,7 @@
     },
     {
       "area": "3106",
+      "region": "บุรีรัมย์ เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -461,6 +520,7 @@
     },
     {
       "area": "3107",
+      "region": "บุรีรัมย์ เขต 7",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -468,6 +528,7 @@
     },
     {
       "area": "3108",
+      "region": "บุรีรัมย์ เขต 8",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -475,6 +536,7 @@
     },
     {
       "area": "3109",
+      "region": "บุรีรัมย์ เขต 9",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -482,6 +544,7 @@
     },
     {
       "area": "3110",
+      "region": "บุรีรัมย์ เขต 10",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -489,6 +552,7 @@
     },
     {
       "area": "3201",
+      "region": "สุรินทร์ เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -496,6 +560,7 @@
     },
     {
       "area": "3202",
+      "region": "สุรินทร์ เขต 2",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -503,6 +568,7 @@
     },
     {
       "area": "3203",
+      "region": "สุรินทร์ เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -510,6 +576,7 @@
     },
     {
       "area": "3204",
+      "region": "สุรินทร์ เขต 4",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -517,6 +584,7 @@
     },
     {
       "area": "3205",
+      "region": "สุรินทร์ เขต 5",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -524,6 +592,7 @@
     },
     {
       "area": "3206",
+      "region": "สุรินทร์ เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -531,6 +600,7 @@
     },
     {
       "area": "3207",
+      "region": "สุรินทร์ เขต 7",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -538,6 +608,7 @@
     },
     {
       "area": "3208",
+      "region": "สุรินทร์ เขต 8",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -545,6 +616,7 @@
     },
     {
       "area": "3301",
+      "region": "ศรีสะเกษ เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -552,6 +624,7 @@
     },
     {
       "area": "3302",
+      "region": "ศรีสะเกษ เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -559,6 +632,7 @@
     },
     {
       "area": "3303",
+      "region": "ศรีสะเกษ เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -566,6 +640,7 @@
     },
     {
       "area": "3304",
+      "region": "ศรีสะเกษ เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -573,6 +648,7 @@
     },
     {
       "area": "3305",
+      "region": "ศรีสะเกษ เขต 5",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -580,6 +656,7 @@
     },
     {
       "area": "3306",
+      "region": "ศรีสะเกษ เขต 6",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -587,6 +664,7 @@
     },
     {
       "area": "3308",
+      "region": "ศรีสะเกษ เขต 8",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -594,6 +672,7 @@
     },
     {
       "area": "3309",
+      "region": "ศรีสะเกษ เขต 9",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -601,6 +680,7 @@
     },
     {
       "area": "3401",
+      "region": "อุบลราชธานี เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -608,6 +688,7 @@
     },
     {
       "area": "3402",
+      "region": "อุบลราชธานี เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0021",
       "pl_rank": 7,
@@ -615,6 +696,7 @@
     },
     {
       "area": "3404",
+      "region": "อุบลราชธานี เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -622,6 +704,7 @@
     },
     {
       "area": "3405",
+      "region": "อุบลราชธานี เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -629,6 +712,7 @@
     },
     {
       "area": "3406",
+      "region": "อุบลราชธานี เขต 6",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "pl_rank": 7,
@@ -636,6 +720,7 @@
     },
     {
       "area": "3407",
+      "region": "อุบลราชธานี เขต 7",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -643,6 +728,7 @@
     },
     {
       "area": "3409",
+      "region": "อุบลราชธานี เขต 9",
       "mp_number": "03",
       "mp_party": "PARTY-0021",
       "pl_rank": 6,
@@ -650,6 +736,7 @@
     },
     {
       "area": "3410",
+      "region": "อุบลราชธานี เขต 10",
       "mp_number": "02",
       "mp_party": "PARTY-0021",
       "pl_rank": 5,
@@ -657,6 +744,7 @@
     },
     {
       "area": "3411",
+      "region": "อุบลราชธานี เขต 11",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -664,6 +752,7 @@
     },
     {
       "area": "3501",
+      "region": "ยโสธร เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -671,6 +760,7 @@
     },
     {
       "area": "3502",
+      "region": "ยโสธร เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -678,6 +768,7 @@
     },
     {
       "area": "3503",
+      "region": "ยโสธร เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -685,6 +776,7 @@
     },
     {
       "area": "3601",
+      "region": "ชัยภูมิ เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "pl_rank": 4,
@@ -692,6 +784,7 @@
     },
     {
       "area": "3602",
+      "region": "ชัยภูมิ เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -699,6 +792,7 @@
     },
     {
       "area": "3603",
+      "region": "ชัยภูมิ เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -706,6 +800,7 @@
     },
     {
       "area": "3604",
+      "region": "ชัยภูมิ เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -713,6 +808,7 @@
     },
     {
       "area": "3605",
+      "region": "ชัยภูมิ เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -720,6 +816,7 @@
     },
     {
       "area": "3606",
+      "region": "ชัยภูมิ เขต 6",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -727,6 +824,7 @@
     },
     {
       "area": "3607",
+      "region": "ชัยภูมิ เขต 7",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -734,6 +832,7 @@
     },
     {
       "area": "3701",
+      "region": "อำนาจเจริญ เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -741,6 +840,7 @@
     },
     {
       "area": "3702",
+      "region": "อำนาจเจริญ เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -748,6 +848,7 @@
     },
     {
       "area": "3803",
+      "region": "บึงกาฬ เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -755,6 +856,7 @@
     },
     {
       "area": "3902",
+      "region": "หนองบัวลำภู เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -762,6 +864,7 @@
     },
     {
       "area": "3903",
+      "region": "หนองบัวลำภู เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -769,6 +872,7 @@
     },
     {
       "area": "4003",
+      "region": "ขอนแก่น เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -776,6 +880,7 @@
     },
     {
       "area": "4004",
+      "region": "ขอนแก่น เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -783,6 +888,7 @@
     },
     {
       "area": "4005",
+      "region": "ขอนแก่น เขต 5",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -790,6 +896,7 @@
     },
     {
       "area": "4006",
+      "region": "ขอนแก่น เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -797,6 +904,7 @@
     },
     {
       "area": "4007",
+      "region": "ขอนแก่น เขต 7",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "pl_rank": 7,
@@ -804,6 +912,7 @@
     },
     {
       "area": "4008",
+      "region": "ขอนแก่น เขต 8",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -811,6 +920,7 @@
     },
     {
       "area": "4009",
+      "region": "ขอนแก่น เขต 9",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "pl_rank": 4,
@@ -818,6 +928,7 @@
     },
     {
       "area": "4010",
+      "region": "ขอนแก่น เขต 10",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -825,6 +936,7 @@
     },
     {
       "area": "4102",
+      "region": "อุดรธานี เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -832,6 +944,7 @@
     },
     {
       "area": "4103",
+      "region": "อุดรธานี เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -839,6 +952,7 @@
     },
     {
       "area": "4104",
+      "region": "อุดรธานี เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -846,6 +960,7 @@
     },
     {
       "area": "4105",
+      "region": "อุดรธานี เขต 5",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -853,6 +968,7 @@
     },
     {
       "area": "4106",
+      "region": "อุดรธานี เขต 6",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -860,6 +976,7 @@
     },
     {
       "area": "4110",
+      "region": "อุดรธานี เขต 10",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -867,6 +984,7 @@
     },
     {
       "area": "4201",
+      "region": "เลย เขต 1",
       "mp_number": "07",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -874,6 +992,7 @@
     },
     {
       "area": "4202",
+      "region": "เลย เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "pl_rank": 4,
@@ -881,6 +1000,7 @@
     },
     {
       "area": "4203",
+      "region": "เลย เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -888,6 +1008,7 @@
     },
     {
       "area": "4204",
+      "region": "เลย เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "pl_rank": 7,
@@ -895,6 +1016,7 @@
     },
     {
       "area": "4301",
+      "region": "หนองคาย เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0043",
       "pl_rank": 6,
@@ -902,6 +1024,7 @@
     },
     {
       "area": "4302",
+      "region": "หนองคาย เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0043",
       "pl_rank": 6,
@@ -909,6 +1032,7 @@
     },
     {
       "area": "4303",
+      "region": "หนองคาย เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -916,6 +1040,7 @@
     },
     {
       "area": "4402",
+      "region": "มหาสารคาม เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -923,6 +1048,7 @@
     },
     {
       "area": "4404",
+      "region": "มหาสารคาม เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -930,6 +1056,7 @@
     },
     {
       "area": "4405",
+      "region": "มหาสารคาม เขต 5",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -937,6 +1064,7 @@
     },
     {
       "area": "4406",
+      "region": "มหาสารคาม เขต 6",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -944,6 +1072,7 @@
     },
     {
       "area": "4501",
+      "region": "ร้อยเอ็ด เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -951,6 +1080,7 @@
     },
     {
       "area": "4502",
+      "region": "ร้อยเอ็ด เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -958,6 +1088,7 @@
     },
     {
       "area": "4503",
+      "region": "ร้อยเอ็ด เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -965,6 +1096,7 @@
     },
     {
       "area": "4506",
+      "region": "ร้อยเอ็ด เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "pl_rank": 7,
@@ -972,6 +1104,7 @@
     },
     {
       "area": "4507",
+      "region": "ร้อยเอ็ด เขต 7",
       "mp_number": "04",
       "mp_party": "PARTY-0048",
       "pl_rank": 6,
@@ -979,6 +1112,7 @@
     },
     {
       "area": "4602",
+      "region": "กาฬสินธุ์ เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "pl_rank": 4,
@@ -986,6 +1120,7 @@
     },
     {
       "area": "4604",
+      "region": "กาฬสินธุ์ เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -993,6 +1128,7 @@
     },
     {
       "area": "4605",
+      "region": "กาฬสินธุ์ เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1000,6 +1136,7 @@
     },
     {
       "area": "4606",
+      "region": "กาฬสินธุ์ เขต 6",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "pl_rank": 4,
@@ -1007,6 +1144,7 @@
     },
     {
       "area": "4703",
+      "region": "สกลนคร เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -1014,6 +1152,7 @@
     },
     {
       "area": "4705",
+      "region": "สกลนคร เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1021,6 +1160,7 @@
     },
     {
       "area": "4706",
+      "region": "สกลนคร เขต 6",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1028,6 +1168,7 @@
     },
     {
       "area": "4707",
+      "region": "สกลนคร เขต 7",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -1035,6 +1176,7 @@
     },
     {
       "area": "4801",
+      "region": "นครพนม เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1042,6 +1184,7 @@
     },
     {
       "area": "4802",
+      "region": "นครพนม เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 4,
@@ -1049,6 +1192,7 @@
     },
     {
       "area": "4803",
+      "region": "นครพนม เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1056,6 +1200,7 @@
     },
     {
       "area": "4804",
+      "region": "นครพนม เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 4,
@@ -1063,6 +1208,7 @@
     },
     {
       "area": "4902",
+      "region": "มุกดาหาร เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1070,6 +1216,7 @@
     },
     {
       "area": "5006",
+      "region": "เชียงใหม่ เขต 6",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1077,6 +1224,7 @@
     },
     {
       "area": "5007",
+      "region": "เชียงใหม่ เขต 7",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -1084,6 +1232,7 @@
     },
     {
       "area": "5009",
+      "region": "เชียงใหม่ เขต 9",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1091,6 +1240,7 @@
     },
     {
       "area": "5010",
+      "region": "เชียงใหม่ เขต 10",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "pl_rank": 4,
@@ -1098,6 +1248,7 @@
     },
     {
       "area": "5102",
+      "region": "ลำพูน เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "pl_rank": 7,
@@ -1105,6 +1256,7 @@
     },
     {
       "area": "5202",
+      "region": "ลำปาง เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -1112,6 +1264,7 @@
     },
     {
       "area": "5204",
+      "region": "ลำปาง เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1119,6 +1272,7 @@
     },
     {
       "area": "5301",
+      "region": "อุตรดิตถ์ เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1126,6 +1280,7 @@
     },
     {
       "area": "5302",
+      "region": "อุตรดิตถ์ เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0044",
       "pl_rank": 6,
@@ -1133,6 +1288,7 @@
     },
     {
       "area": "5303",
+      "region": "อุตรดิตถ์ เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -1140,6 +1296,7 @@
     },
     {
       "area": "5402",
+      "region": "แพร่ เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1147,6 +1304,7 @@
     },
     {
       "area": "5502",
+      "region": "น่าน เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1154,6 +1312,7 @@
     },
     {
       "area": "5503",
+      "region": "น่าน เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0046",
       "pl_rank": 4,
@@ -1161,6 +1320,7 @@
     },
     {
       "area": "5601",
+      "region": "พะเยา เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1168,6 +1328,7 @@
     },
     {
       "area": "5602",
+      "region": "พะเยา เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1175,6 +1336,7 @@
     },
     {
       "area": "5603",
+      "region": "พะเยา เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "pl_rank": 4,
@@ -1182,6 +1344,7 @@
     },
     {
       "area": "5702",
+      "region": "เชียงราย เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -1189,6 +1352,7 @@
     },
     {
       "area": "5703",
+      "region": "เชียงราย เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -1196,6 +1360,7 @@
     },
     {
       "area": "5704",
+      "region": "เชียงราย เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1203,6 +1368,7 @@
     },
     {
       "area": "5705",
+      "region": "เชียงราย เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1210,6 +1376,7 @@
     },
     {
       "area": "5706",
+      "region": "เชียงราย เขต 6",
       "mp_number": "07",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1217,6 +1384,7 @@
     },
     {
       "area": "5801",
+      "region": "แม่ฮ่องสอน เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1224,6 +1392,7 @@
     },
     {
       "area": "5802",
+      "region": "แม่ฮ่องสอน เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1231,6 +1400,7 @@
     },
     {
       "area": "6001",
+      "region": "นครสวรรค์ เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1238,6 +1408,7 @@
     },
     {
       "area": "6002",
+      "region": "นครสวรรค์ เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1245,6 +1416,7 @@
     },
     {
       "area": "6003",
+      "region": "นครสวรรค์ เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1252,6 +1424,7 @@
     },
     {
       "area": "6004",
+      "region": "นครสวรรค์ เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1259,6 +1432,7 @@
     },
     {
       "area": "6005",
+      "region": "นครสวรรค์ เขต 5",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1266,6 +1440,7 @@
     },
     {
       "area": "6006",
+      "region": "นครสวรรค์ เขต 6",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1273,6 +1448,7 @@
     },
     {
       "area": "6101",
+      "region": "อุทัยธานี เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1280,6 +1456,7 @@
     },
     {
       "area": "6102",
+      "region": "อุทัยธานี เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1287,6 +1464,7 @@
     },
     {
       "area": "6201",
+      "region": "กำแพงเพชร เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1294,6 +1472,7 @@
     },
     {
       "area": "6202",
+      "region": "กำแพงเพชร เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1301,6 +1480,7 @@
     },
     {
       "area": "6203",
+      "region": "กำแพงเพชร เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "pl_rank": 7,
@@ -1308,6 +1488,7 @@
     },
     {
       "area": "6301",
+      "region": "ตาก เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1315,6 +1496,7 @@
     },
     {
       "area": "6302",
+      "region": "ตาก เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1322,6 +1504,7 @@
     },
     {
       "area": "6401",
+      "region": "สุโขทัย เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -1329,6 +1512,7 @@
     },
     {
       "area": "6402",
+      "region": "สุโขทัย เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "pl_rank": 5,
@@ -1336,6 +1520,7 @@
     },
     {
       "area": "6403",
+      "region": "สุโขทัย เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "pl_rank": 6,
@@ -1343,6 +1528,7 @@
     },
     {
       "area": "6404",
+      "region": "สุโขทัย เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1350,6 +1536,7 @@
     },
     {
       "area": "6504",
+      "region": "พิษณุโลก เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1357,6 +1544,7 @@
     },
     {
       "area": "6505",
+      "region": "พิษณุโลก เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1364,6 +1552,7 @@
     },
     {
       "area": "6602",
+      "region": "พิจิตร เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1371,6 +1560,7 @@
     },
     {
       "area": "6603",
+      "region": "พิจิตร เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1378,6 +1568,7 @@
     },
     {
       "area": "6701",
+      "region": "เพชรบูรณ์ เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1385,6 +1576,7 @@
     },
     {
       "area": "6703",
+      "region": "เพชรบูรณ์ เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1392,6 +1584,7 @@
     },
     {
       "area": "6704",
+      "region": "เพชรบูรณ์ เขต 4",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1399,6 +1592,7 @@
     },
     {
       "area": "6705",
+      "region": "เพชรบูรณ์ เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1406,6 +1600,7 @@
     },
     {
       "area": "6706",
+      "region": "เพชรบูรณ์ เขต 6",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1413,6 +1608,7 @@
     },
     {
       "area": "7001",
+      "region": "ราชบุรี เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1420,6 +1616,7 @@
     },
     {
       "area": "7002",
+      "region": "ราชบุรี เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -1427,6 +1624,7 @@
     },
     {
       "area": "7003",
+      "region": "ราชบุรี เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1434,6 +1632,7 @@
     },
     {
       "area": "7004",
+      "region": "ราชบุรี เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1441,6 +1640,7 @@
     },
     {
       "area": "7101",
+      "region": "กาญจนบุรี เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "pl_rank": 7,
@@ -1448,6 +1648,7 @@
     },
     {
       "area": "7102",
+      "region": "กาญจนบุรี เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1455,6 +1656,7 @@
     },
     {
       "area": "7103",
+      "region": "กาญจนบุรี เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1462,6 +1664,7 @@
     },
     {
       "area": "7104",
+      "region": "กาญจนบุรี เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1469,6 +1672,7 @@
     },
     {
       "area": "7105",
+      "region": "กาญจนบุรี เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "pl_rank": 4,
@@ -1476,6 +1680,7 @@
     },
     {
       "area": "7201",
+      "region": "สุพรรณบุรี เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1483,6 +1688,7 @@
     },
     {
       "area": "7202",
+      "region": "สุพรรณบุรี เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1490,6 +1696,7 @@
     },
     {
       "area": "7204",
+      "region": "สุพรรณบุรี เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1497,6 +1704,7 @@
     },
     {
       "area": "7205",
+      "region": "สุพรรณบุรี เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1504,6 +1712,7 @@
     },
     {
       "area": "7301",
+      "region": "นครปฐม เขต 1",
       "mp_number": "08",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1511,6 +1720,7 @@
     },
     {
       "area": "7302",
+      "region": "นครปฐม เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -1518,6 +1728,7 @@
     },
     {
       "area": "7304",
+      "region": "นครปฐม เขต 4",
       "mp_number": "08",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1525,6 +1736,7 @@
     },
     {
       "area": "7402",
+      "region": "สมุทรสาคร เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1532,6 +1744,7 @@
     },
     {
       "area": "7404",
+      "region": "สมุทรสาคร เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1539,6 +1752,7 @@
     },
     {
       "area": "7601",
+      "region": "เพชรบุรี เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1546,6 +1760,7 @@
     },
     {
       "area": "7602",
+      "region": "เพชรบุรี เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1553,6 +1768,7 @@
     },
     {
       "area": "7603",
+      "region": "เพชรบุรี เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1560,6 +1776,7 @@
     },
     {
       "area": "7702",
+      "region": "ประจวบคีรีขันธ์ เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -1567,6 +1784,7 @@
     },
     {
       "area": "8002",
+      "region": "นครศรีธรรมราช เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1574,6 +1792,7 @@
     },
     {
       "area": "8003",
+      "region": "นครศรีธรรมราช เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0027",
       "pl_rank": 7,
@@ -1581,6 +1800,7 @@
     },
     {
       "area": "8008",
+      "region": "นครศรีธรรมราช เขต 8",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1588,6 +1808,7 @@
     },
     {
       "area": "8101",
+      "region": "กระบี่ เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1595,6 +1816,7 @@
     },
     {
       "area": "8102",
+      "region": "กระบี่ เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1602,6 +1824,7 @@
     },
     {
       "area": "8103",
+      "region": "กระบี่ เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1609,6 +1832,7 @@
     },
     {
       "area": "8201",
+      "region": "พังงา เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1616,6 +1840,7 @@
     },
     {
       "area": "8402",
+      "region": "สุราษฎร์ธานี เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1623,6 +1848,7 @@
     },
     {
       "area": "8403",
+      "region": "สุราษฎร์ธานี เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0021",
       "pl_rank": 6,
@@ -1630,6 +1856,7 @@
     },
     {
       "area": "8405",
+      "region": "สุราษฎร์ธานี เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1637,6 +1864,7 @@
     },
     {
       "area": "9001",
+      "region": "สงขลา เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1644,6 +1872,7 @@
     },
     {
       "area": "9003",
+      "region": "สงขลา เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1651,6 +1880,7 @@
     },
     {
       "area": "9004",
+      "region": "สงขลา เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1658,6 +1888,7 @@
     },
     {
       "area": "9005",
+      "region": "สงขลา เขต 5",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 5,
@@ -1665,6 +1896,7 @@
     },
     {
       "area": "9007",
+      "region": "สงขลา เขต 7",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1672,6 +1904,7 @@
     },
     {
       "area": "9008",
+      "region": "สงขลา เขต 8",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1679,6 +1912,7 @@
     },
     {
       "area": "9009",
+      "region": "สงขลา เขต 9",
       "mp_number": "02",
       "mp_party": "PARTY-0027",
       "pl_rank": 7,
@@ -1686,6 +1920,7 @@
     },
     {
       "area": "9101",
+      "region": "สตูล เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "pl_rank": 7,
@@ -1693,6 +1928,7 @@
     },
     {
       "area": "9201",
+      "region": "ตรัง เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 6,
@@ -1700,6 +1936,7 @@
     },
     {
       "area": "9202",
+      "region": "ตรัง เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 4,
@@ -1707,6 +1944,7 @@
     },
     {
       "area": "9203",
+      "region": "ตรัง เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0027",
       "pl_rank": 7,
@@ -1714,6 +1952,7 @@
     },
     {
       "area": "9204",
+      "region": "ตรัง เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0027",
       "pl_rank": 4,
@@ -1721,6 +1960,7 @@
     },
     {
       "area": "9302",
+      "region": "พัทลุง เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1728,6 +1968,7 @@
     },
     {
       "area": "9401",
+      "region": "ปัตตานี เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1735,6 +1976,7 @@
     },
     {
       "area": "9402",
+      "region": "ปัตตานี เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1742,6 +1984,7 @@
     },
     {
       "area": "9403",
+      "region": "ปัตตานี เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1749,6 +1992,7 @@
     },
     {
       "area": "9404",
+      "region": "ปัตตานี เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "pl_rank": 7,
@@ -1756,6 +2000,7 @@
     },
     {
       "area": "9405",
+      "region": "ปัตตานี เขต 5",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1763,6 +2008,7 @@
     },
     {
       "area": "9501",
+      "region": "ยะลา เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0033",
       "pl_rank": 6,
@@ -1770,6 +2016,7 @@
     },
     {
       "area": "9502",
+      "region": "ยะลา เขต 2",
       "mp_number": "07",
       "mp_party": "PARTY-0033",
       "pl_rank": 6,
@@ -1777,6 +2024,7 @@
     },
     {
       "area": "9503",
+      "region": "ยะลา เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0033",
       "pl_rank": 7,
@@ -1784,6 +2032,7 @@
     },
     {
       "area": "9601",
+      "region": "นราธิวาส เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1791,6 +2040,7 @@
     },
     {
       "area": "9602",
+      "region": "นราธิวาส เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1798,6 +2048,7 @@
     },
     {
       "area": "9603",
+      "region": "นราธิวาส เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "pl_rank": 6,
@@ -1805,6 +2056,7 @@
     },
     {
       "area": "9604",
+      "region": "นราธิวาส เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "pl_rank": 5,
@@ -1812,6 +2064,7 @@
     },
     {
       "area": "9605",
+      "region": "นราธิวาส เขต 5",
       "mp_number": "01",
       "mp_party": "PARTY-0033",
       "pl_rank": 6,
@@ -1821,6 +2074,7 @@
   "details": [
     {
       "area": "1001",
+      "region": "กรุงเทพมหานคร เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1828,6 +2082,7 @@
     },
     {
       "area": "1002",
+      "region": "กรุงเทพมหานคร เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1835,6 +2090,7 @@
     },
     {
       "area": "1003",
+      "region": "กรุงเทพมหานคร เขต 3",
       "mp_number": "09",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1842,6 +2098,7 @@
     },
     {
       "area": "1004",
+      "region": "กรุงเทพมหานคร เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1849,6 +2106,7 @@
     },
     {
       "area": "1005",
+      "region": "กรุงเทพมหานคร เขต 5",
       "mp_number": "06",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1856,6 +2114,7 @@
     },
     {
       "area": "1006",
+      "region": "กรุงเทพมหานคร เขต 6",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1863,6 +2122,7 @@
     },
     {
       "area": "1007",
+      "region": "กรุงเทพมหานคร เขต 7",
       "mp_number": "08",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1870,6 +2130,7 @@
     },
     {
       "area": "1008",
+      "region": "กรุงเทพมหานคร เขต 8",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1877,6 +2138,7 @@
     },
     {
       "area": "1009",
+      "region": "กรุงเทพมหานคร เขต 9",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1884,6 +2146,7 @@
     },
     {
       "area": "1010",
+      "region": "กรุงเทพมหานคร เขต 10",
       "mp_number": "06",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1891,6 +2154,7 @@
     },
     {
       "area": "1011",
+      "region": "กรุงเทพมหานคร เขต 11",
       "mp_number": "15",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1898,6 +2162,7 @@
     },
     {
       "area": "1012",
+      "region": "กรุงเทพมหานคร เขต 12",
       "mp_number": "15",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1905,6 +2170,7 @@
     },
     {
       "area": "1013",
+      "region": "กรุงเทพมหานคร เขต 13",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1912,6 +2178,7 @@
     },
     {
       "area": "1014",
+      "region": "กรุงเทพมหานคร เขต 14",
       "mp_number": "14",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1919,6 +2186,7 @@
     },
     {
       "area": "1015",
+      "region": "กรุงเทพมหานคร เขต 15",
       "mp_number": "08",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1926,6 +2194,7 @@
     },
     {
       "area": "1016",
+      "region": "กรุงเทพมหานคร เขต 16",
       "mp_number": "10",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1933,6 +2202,7 @@
     },
     {
       "area": "1017",
+      "region": "กรุงเทพมหานคร เขต 17",
       "mp_number": "10",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1940,6 +2210,7 @@
     },
     {
       "area": "1018",
+      "region": "กรุงเทพมหานคร เขต 18",
       "mp_number": "10",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1947,6 +2218,7 @@
     },
     {
       "area": "1019",
+      "region": "กรุงเทพมหานคร เขต 19",
       "mp_number": "06",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1954,6 +2226,7 @@
     },
     {
       "area": "1020",
+      "region": "กรุงเทพมหานคร เขต 20",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1961,6 +2234,7 @@
     },
     {
       "area": "1021",
+      "region": "กรุงเทพมหานคร เขต 21",
       "mp_number": "08",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1968,6 +2242,7 @@
     },
     {
       "area": "1022",
+      "region": "กรุงเทพมหานคร เขต 22",
       "mp_number": "06",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1975,6 +2250,7 @@
     },
     {
       "area": "1023",
+      "region": "กรุงเทพมหานคร เขต 23",
       "mp_number": "15",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1982,6 +2258,7 @@
     },
     {
       "area": "1024",
+      "region": "กรุงเทพมหานคร เขต 24",
       "mp_number": "06",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1989,6 +2266,7 @@
     },
     {
       "area": "1025",
+      "region": "กรุงเทพมหานคร เขต 25",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -1996,6 +2274,7 @@
     },
     {
       "area": "1026",
+      "region": "กรุงเทพมหานคร เขต 26",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2003,6 +2282,7 @@
     },
     {
       "area": "1027",
+      "region": "กรุงเทพมหานคร เขต 27",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2010,6 +2290,7 @@
     },
     {
       "area": "1028",
+      "region": "กรุงเทพมหานคร เขต 28",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2017,6 +2298,7 @@
     },
     {
       "area": "1029",
+      "region": "กรุงเทพมหานคร เขต 29",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2024,6 +2306,7 @@
     },
     {
       "area": "1030",
+      "region": "กรุงเทพมหานคร เขต 30",
       "mp_number": "15",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2031,6 +2314,7 @@
     },
     {
       "area": "1031",
+      "region": "กรุงเทพมหานคร เขต 31",
       "mp_number": "12",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2038,6 +2322,7 @@
     },
     {
       "area": "1032",
+      "region": "กรุงเทพมหานคร เขต 32",
       "mp_number": "15",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2045,6 +2330,7 @@
     },
     {
       "area": "1033",
+      "region": "กรุงเทพมหานคร เขต 33",
       "mp_number": "11",
       "mp_party": "PARTY-0046",
       "matched": true,
@@ -2052,6 +2338,7 @@
     },
     {
       "area": "1101",
+      "region": "นนทบุรี เขต 1",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2059,6 +2346,7 @@
     },
     {
       "area": "1102",
+      "region": "นนทบุรี เขต 2",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2066,6 +2354,7 @@
     },
     {
       "area": "1103",
+      "region": "นนทบุรี เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2073,6 +2362,7 @@
     },
     {
       "area": "1104",
+      "region": "นนทบุรี เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2080,6 +2370,7 @@
     },
     {
       "area": "1105",
+      "region": "นนทบุรี เขต 5",
       "mp_number": "11",
       "mp_party": "PARTY-0046",
       "matched": true,
@@ -2087,6 +2378,7 @@
     },
     {
       "area": "1106",
+      "region": "นนทบุรี เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2094,6 +2386,7 @@
     },
     {
       "area": "1107",
+      "region": "นนทบุรี เขต 7",
       "mp_number": "08",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2101,6 +2394,7 @@
     },
     {
       "area": "1108",
+      "region": "นนทบุรี เขต 8",
       "mp_number": "09",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2108,6 +2402,7 @@
     },
     {
       "area": "1201",
+      "region": "ปทุมธานี เขต 1",
       "mp_number": "08",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2115,6 +2410,7 @@
     },
     {
       "area": "1202",
+      "region": "ปทุมธานี เขต 2",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2122,6 +2418,7 @@
     },
     {
       "area": "1203",
+      "region": "ปทุมธานี เขต 3",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2129,6 +2426,7 @@
     },
     {
       "area": "1204",
+      "region": "ปทุมธานี เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2136,6 +2434,7 @@
     },
     {
       "area": "1205",
+      "region": "ปทุมธานี เขต 5",
       "mp_number": "08",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2143,6 +2442,7 @@
     },
     {
       "area": "1206",
+      "region": "ปทุมธานี เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2150,6 +2450,7 @@
     },
     {
       "area": "1207",
+      "region": "ปทุมธานี เขต 7",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2157,6 +2458,7 @@
     },
     {
       "area": "1208",
+      "region": "ปทุมธานี เขต 8",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2164,6 +2466,7 @@
     },
     {
       "area": "1301",
+      "region": "พระนครศรีอยุธยา เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2171,6 +2474,7 @@
     },
     {
       "area": "1302",
+      "region": "พระนครศรีอยุธยา เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2178,6 +2482,7 @@
     },
     {
       "area": "1303",
+      "region": "พระนครศรีอยุธยา เขต 3",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2185,6 +2490,7 @@
     },
     {
       "area": "1304",
+      "region": "พระนครศรีอยุธยา เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2192,6 +2498,7 @@
     },
     {
       "area": "1305",
+      "region": "พระนครศรีอยุธยา เขต 5",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2199,6 +2506,7 @@
     },
     {
       "area": "1306",
+      "region": "",
       "mp_number": "08",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2206,6 +2514,7 @@
     },
     {
       "area": "1307",
+      "region": "",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2213,6 +2522,7 @@
     },
     {
       "area": "1308",
+      "region": "",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2220,6 +2530,7 @@
     },
     {
       "area": "1401",
+      "region": "อ่างทอง เขต 1",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -2227,6 +2538,7 @@
     },
     {
       "area": "1402",
+      "region": "อ่างทอง เขต 2",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2234,6 +2546,7 @@
     },
     {
       "area": "1403",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2241,6 +2554,7 @@
     },
     {
       "area": "1404",
+      "region": "",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2248,6 +2562,7 @@
     },
     {
       "area": "1405",
+      "region": "",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2255,6 +2570,7 @@
     },
     {
       "area": "1501",
+      "region": "ลพบุรี เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2262,6 +2578,7 @@
     },
     {
       "area": "1502",
+      "region": "ลพบุรี เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2269,6 +2586,7 @@
     },
     {
       "area": "1601",
+      "region": "สิงห์บุรี เขต 1",
       "mp_number": "08",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2276,6 +2594,7 @@
     },
     {
       "area": "1602",
+      "region": "",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2283,6 +2602,7 @@
     },
     {
       "area": "1603",
+      "region": "",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -2290,6 +2610,7 @@
     },
     {
       "area": "1604",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2297,6 +2618,7 @@
     },
     {
       "area": "1701",
+      "region": "ชัยนาท เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2304,6 +2626,7 @@
     },
     {
       "area": "1801",
+      "region": "สระบุรี เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2311,6 +2634,7 @@
     },
     {
       "area": "1802",
+      "region": "สระบุรี เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2318,6 +2642,7 @@
     },
     {
       "area": "1901",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2325,6 +2650,7 @@
     },
     {
       "area": "1902",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2332,6 +2658,7 @@
     },
     {
       "area": "1903",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2339,6 +2666,7 @@
     },
     {
       "area": "1904",
+      "region": "",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -2346,6 +2674,7 @@
     },
     {
       "area": "2001",
+      "region": "ชลบุรี เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -2353,6 +2682,7 @@
     },
     {
       "area": "2002",
+      "region": "ชลบุรี เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2360,6 +2690,7 @@
     },
     {
       "area": "2003",
+      "region": "ชลบุรี เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2367,6 +2698,7 @@
     },
     {
       "area": "2004",
+      "region": "ชลบุรี เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2374,6 +2706,7 @@
     },
     {
       "area": "2005",
+      "region": "ชลบุรี เขต 5",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2381,6 +2714,7 @@
     },
     {
       "area": "2006",
+      "region": "ชลบุรี เขต 6",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2388,6 +2722,7 @@
     },
     {
       "area": "2007",
+      "region": "ชลบุรี เขต 7",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2395,6 +2730,7 @@
     },
     {
       "area": "2008",
+      "region": "ชลบุรี เขต 8",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2402,6 +2738,7 @@
     },
     {
       "area": "2009",
+      "region": "ชลบุรี เขต 9",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2409,6 +2746,7 @@
     },
     {
       "area": "2010",
+      "region": "ชลบุรี เขต 10",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2416,6 +2754,7 @@
     },
     {
       "area": "2101",
+      "region": "ระยอง เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2423,6 +2762,7 @@
     },
     {
       "area": "2102",
+      "region": "ระยอง เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2430,6 +2770,7 @@
     },
     {
       "area": "2103",
+      "region": "ระยอง เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0027",
       "matched": true,
@@ -2437,6 +2778,7 @@
     },
     {
       "area": "2104",
+      "region": "ระยอง เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2444,6 +2786,7 @@
     },
     {
       "area": "2105",
+      "region": "ระยอง เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2451,6 +2794,7 @@
     },
     {
       "area": "2201",
+      "region": "จันทบุรี เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2458,6 +2802,7 @@
     },
     {
       "area": "2202",
+      "region": "จันทบุรี เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2465,6 +2810,7 @@
     },
     {
       "area": "2203",
+      "region": "จันทบุรี เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2472,6 +2818,7 @@
     },
     {
       "area": "2301",
+      "region": "ตราด เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2479,6 +2826,7 @@
     },
     {
       "area": "2401",
+      "region": "ฉะเชิงเทรา เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2486,6 +2834,7 @@
     },
     {
       "area": "2402",
+      "region": "ฉะเชิงเทรา เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -2493,6 +2842,7 @@
     },
     {
       "area": "2403",
+      "region": "ฉะเชิงเทรา เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -2500,6 +2850,7 @@
     },
     {
       "area": "2404",
+      "region": "ฉะเชิงเทรา เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -2507,6 +2858,7 @@
     },
     {
       "area": "2501",
+      "region": "ปราจีนบุรี เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2514,6 +2866,7 @@
     },
     {
       "area": "2502",
+      "region": "ปราจีนบุรี เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2521,6 +2874,7 @@
     },
     {
       "area": "2503",
+      "region": "ปราจีนบุรี เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2528,6 +2882,7 @@
     },
     {
       "area": "2601",
+      "region": "นครนายก เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -2535,6 +2890,7 @@
     },
     {
       "area": "2602",
+      "region": "นครนายก เขต 2",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -2542,6 +2898,7 @@
     },
     {
       "area": "2701",
+      "region": "สระแก้ว เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0043",
       "matched": true,
@@ -2549,6 +2906,7 @@
     },
     {
       "area": "2702",
+      "region": "สระแก้ว เขต 2",
       "mp_number": "06",
       "mp_party": "PARTY-0043",
       "matched": false,
@@ -2556,6 +2914,7 @@
     },
     {
       "area": "2703",
+      "region": "สระแก้ว เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -2563,6 +2922,7 @@
     },
     {
       "area": "3001",
+      "region": "นครราชสีมา เขต 1",
       "mp_number": "07",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2570,6 +2930,7 @@
     },
     {
       "area": "3002",
+      "region": "นครราชสีมา เขต 2",
       "mp_number": "08",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2577,6 +2938,7 @@
     },
     {
       "area": "3003",
+      "region": "นครราชสีมา เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2584,6 +2946,7 @@
     },
     {
       "area": "3004",
+      "region": "นครราชสีมา เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2591,6 +2954,7 @@
     },
     {
       "area": "3005",
+      "region": "นครราชสีมา เขต 5",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2598,6 +2962,7 @@
     },
     {
       "area": "3006",
+      "region": "นครราชสีมา เขต 6",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2605,6 +2970,7 @@
     },
     {
       "area": "3007",
+      "region": "นครราชสีมา เขต 7",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2612,6 +2978,7 @@
     },
     {
       "area": "3008",
+      "region": "นครราชสีมา เขต 8",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2619,6 +2986,7 @@
     },
     {
       "area": "3009",
+      "region": "นครราชสีมา เขต 9",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2626,6 +2994,7 @@
     },
     {
       "area": "3010",
+      "region": "นครราชสีมา เขต 10",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2633,6 +3002,7 @@
     },
     {
       "area": "3011",
+      "region": "นครราชสีมา เขต 11",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2640,6 +3010,7 @@
     },
     {
       "area": "3012",
+      "region": "นครราชสีมา เขต 12",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2647,6 +3018,7 @@
     },
     {
       "area": "3013",
+      "region": "นครราชสีมา เขต 13",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2654,6 +3026,7 @@
     },
     {
       "area": "3014",
+      "region": "นครราชสีมา เขต 14",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -2661,6 +3034,7 @@
     },
     {
       "area": "3015",
+      "region": "นครราชสีมา เขต 15",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2668,6 +3042,7 @@
     },
     {
       "area": "3016",
+      "region": "นครราชสีมา เขต 16",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2675,6 +3050,7 @@
     },
     {
       "area": "3101",
+      "region": "บุรีรัมย์ เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2682,6 +3058,7 @@
     },
     {
       "area": "3102",
+      "region": "บุรีรัมย์ เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2689,6 +3066,7 @@
     },
     {
       "area": "3103",
+      "region": "บุรีรัมย์ เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2696,6 +3074,7 @@
     },
     {
       "area": "3104",
+      "region": "บุรีรัมย์ เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2703,6 +3082,7 @@
     },
     {
       "area": "3105",
+      "region": "บุรีรัมย์ เขต 5",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -2710,6 +3090,7 @@
     },
     {
       "area": "3106",
+      "region": "บุรีรัมย์ เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2717,6 +3098,7 @@
     },
     {
       "area": "3107",
+      "region": "บุรีรัมย์ เขต 7",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2724,6 +3106,7 @@
     },
     {
       "area": "3108",
+      "region": "บุรีรัมย์ เขต 8",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2731,6 +3114,7 @@
     },
     {
       "area": "3109",
+      "region": "บุรีรัมย์ เขต 9",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2738,6 +3122,7 @@
     },
     {
       "area": "3110",
+      "region": "บุรีรัมย์ เขต 10",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2745,6 +3130,7 @@
     },
     {
       "area": "3201",
+      "region": "สุรินทร์ เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2752,6 +3138,7 @@
     },
     {
       "area": "3202",
+      "region": "สุรินทร์ เขต 2",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2759,6 +3146,7 @@
     },
     {
       "area": "3203",
+      "region": "สุรินทร์ เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2766,6 +3154,7 @@
     },
     {
       "area": "3204",
+      "region": "สุรินทร์ เขต 4",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2773,6 +3162,7 @@
     },
     {
       "area": "3205",
+      "region": "สุรินทร์ เขต 5",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2780,6 +3170,7 @@
     },
     {
       "area": "3206",
+      "region": "สุรินทร์ เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2787,6 +3178,7 @@
     },
     {
       "area": "3207",
+      "region": "สุรินทร์ เขต 7",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2794,6 +3186,7 @@
     },
     {
       "area": "3208",
+      "region": "สุรินทร์ เขต 8",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2801,6 +3194,7 @@
     },
     {
       "area": "3301",
+      "region": "ศรีสะเกษ เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2808,6 +3202,7 @@
     },
     {
       "area": "3302",
+      "region": "ศรีสะเกษ เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2815,6 +3210,7 @@
     },
     {
       "area": "3303",
+      "region": "ศรีสะเกษ เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2822,6 +3218,7 @@
     },
     {
       "area": "3304",
+      "region": "ศรีสะเกษ เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2829,6 +3226,7 @@
     },
     {
       "area": "3305",
+      "region": "ศรีสะเกษ เขต 5",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2836,6 +3234,7 @@
     },
     {
       "area": "3306",
+      "region": "ศรีสะเกษ เขต 6",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2843,6 +3242,7 @@
     },
     {
       "area": "3307",
+      "region": "ศรีสะเกษ เขต 7",
       "mp_number": "06",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -2850,6 +3250,7 @@
     },
     {
       "area": "3308",
+      "region": "ศรีสะเกษ เขต 8",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2857,6 +3258,7 @@
     },
     {
       "area": "3309",
+      "region": "ศรีสะเกษ เขต 9",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2864,6 +3266,7 @@
     },
     {
       "area": "3401",
+      "region": "อุบลราชธานี เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2871,6 +3274,7 @@
     },
     {
       "area": "3402",
+      "region": "อุบลราชธานี เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0021",
       "matched": true,
@@ -2878,6 +3282,7 @@
     },
     {
       "area": "3403",
+      "region": "อุบลราชธานี เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0021",
       "matched": false,
@@ -2885,6 +3290,7 @@
     },
     {
       "area": "3404",
+      "region": "อุบลราชธานี เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2892,6 +3298,7 @@
     },
     {
       "area": "3405",
+      "region": "อุบลราชธานี เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2899,6 +3306,7 @@
     },
     {
       "area": "3406",
+      "region": "อุบลราชธานี เขต 6",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2906,6 +3314,7 @@
     },
     {
       "area": "3407",
+      "region": "อุบลราชธานี เขต 7",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2913,6 +3322,7 @@
     },
     {
       "area": "3408",
+      "region": "อุบลราชธานี เขต 8",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -2920,6 +3330,7 @@
     },
     {
       "area": "3409",
+      "region": "อุบลราชธานี เขต 9",
       "mp_number": "03",
       "mp_party": "PARTY-0021",
       "matched": true,
@@ -2927,6 +3338,7 @@
     },
     {
       "area": "3410",
+      "region": "อุบลราชธานี เขต 10",
       "mp_number": "02",
       "mp_party": "PARTY-0021",
       "matched": true,
@@ -2934,6 +3346,7 @@
     },
     {
       "area": "3411",
+      "region": "อุบลราชธานี เขต 11",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2941,6 +3354,7 @@
     },
     {
       "area": "3501",
+      "region": "ยโสธร เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2948,6 +3362,7 @@
     },
     {
       "area": "3502",
+      "region": "ยโสธร เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2955,6 +3370,7 @@
     },
     {
       "area": "3503",
+      "region": "ยโสธร เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2962,6 +3378,7 @@
     },
     {
       "area": "3601",
+      "region": "ชัยภูมิ เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2969,6 +3386,7 @@
     },
     {
       "area": "3602",
+      "region": "ชัยภูมิ เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2976,6 +3394,7 @@
     },
     {
       "area": "3603",
+      "region": "ชัยภูมิ เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2983,6 +3402,7 @@
     },
     {
       "area": "3604",
+      "region": "ชัยภูมิ เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -2990,6 +3410,7 @@
     },
     {
       "area": "3605",
+      "region": "ชัยภูมิ เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -2997,6 +3418,7 @@
     },
     {
       "area": "3606",
+      "region": "ชัยภูมิ เขต 6",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3004,6 +3426,7 @@
     },
     {
       "area": "3607",
+      "region": "ชัยภูมิ เขต 7",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3011,6 +3434,7 @@
     },
     {
       "area": "3701",
+      "region": "อำนาจเจริญ เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3018,6 +3442,7 @@
     },
     {
       "area": "3702",
+      "region": "อำนาจเจริญ เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3025,6 +3450,7 @@
     },
     {
       "area": "3801",
+      "region": "บึงกาฬ เขต 1",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3032,6 +3458,7 @@
     },
     {
       "area": "3802",
+      "region": "บึงกาฬ เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3039,6 +3466,7 @@
     },
     {
       "area": "3803",
+      "region": "บึงกาฬ เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3046,6 +3474,7 @@
     },
     {
       "area": "3901",
+      "region": "หนองบัวลำภู เขต 1",
       "mp_number": "09",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -3053,6 +3482,7 @@
     },
     {
       "area": "3902",
+      "region": "หนองบัวลำภู เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3060,6 +3490,7 @@
     },
     {
       "area": "3903",
+      "region": "หนองบัวลำภู เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3067,6 +3498,7 @@
     },
     {
       "area": "4001",
+      "region": "ขอนแก่น เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3074,6 +3506,7 @@
     },
     {
       "area": "4002",
+      "region": "ขอนแก่น เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3081,6 +3514,7 @@
     },
     {
       "area": "4003",
+      "region": "ขอนแก่น เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3088,6 +3522,7 @@
     },
     {
       "area": "4004",
+      "region": "ขอนแก่น เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3095,6 +3530,7 @@
     },
     {
       "area": "4005",
+      "region": "ขอนแก่น เขต 5",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3102,6 +3538,7 @@
     },
     {
       "area": "4006",
+      "region": "ขอนแก่น เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3109,6 +3546,7 @@
     },
     {
       "area": "4007",
+      "region": "ขอนแก่น เขต 7",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3116,6 +3554,7 @@
     },
     {
       "area": "4008",
+      "region": "ขอนแก่น เขต 8",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3123,6 +3562,7 @@
     },
     {
       "area": "4009",
+      "region": "ขอนแก่น เขต 9",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3130,6 +3570,7 @@
     },
     {
       "area": "4010",
+      "region": "ขอนแก่น เขต 10",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3137,6 +3578,7 @@
     },
     {
       "area": "4011",
+      "region": "ขอนแก่น เขต 11",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3144,6 +3586,7 @@
     },
     {
       "area": "4101",
+      "region": "อุดรธานี เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3151,6 +3594,7 @@
     },
     {
       "area": "4102",
+      "region": "อุดรธานี เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3158,6 +3602,7 @@
     },
     {
       "area": "4103",
+      "region": "อุดรธานี เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3165,6 +3610,7 @@
     },
     {
       "area": "4104",
+      "region": "อุดรธานี เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3172,6 +3618,7 @@
     },
     {
       "area": "4105",
+      "region": "อุดรธานี เขต 5",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3179,6 +3626,7 @@
     },
     {
       "area": "4106",
+      "region": "อุดรธานี เขต 6",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3186,6 +3634,7 @@
     },
     {
       "area": "4107",
+      "region": "อุดรธานี เขต 7",
       "mp_number": "06",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3193,6 +3642,7 @@
     },
     {
       "area": "4108",
+      "region": "อุดรธานี เขต 8",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3200,6 +3650,7 @@
     },
     {
       "area": "4109",
+      "region": "อุดรธานี เขต 9",
       "mp_number": "06",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3207,6 +3658,7 @@
     },
     {
       "area": "4110",
+      "region": "อุดรธานี เขต 10",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3214,6 +3666,7 @@
     },
     {
       "area": "4201",
+      "region": "เลย เขต 1",
       "mp_number": "07",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3221,6 +3674,7 @@
     },
     {
       "area": "4202",
+      "region": "เลย เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3228,6 +3682,7 @@
     },
     {
       "area": "4203",
+      "region": "เลย เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3235,6 +3690,7 @@
     },
     {
       "area": "4204",
+      "region": "เลย เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3242,6 +3698,7 @@
     },
     {
       "area": "4301",
+      "region": "หนองคาย เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0043",
       "matched": true,
@@ -3249,6 +3706,7 @@
     },
     {
       "area": "4302",
+      "region": "หนองคาย เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0043",
       "matched": true,
@@ -3256,6 +3714,7 @@
     },
     {
       "area": "4303",
+      "region": "หนองคาย เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3263,6 +3722,7 @@
     },
     {
       "area": "4401",
+      "region": "มหาสารคาม เขต 1",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3270,6 +3730,7 @@
     },
     {
       "area": "4402",
+      "region": "มหาสารคาม เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3277,6 +3738,7 @@
     },
     {
       "area": "4403",
+      "region": "มหาสารคาม เขต 3",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3284,6 +3746,7 @@
     },
     {
       "area": "4404",
+      "region": "มหาสารคาม เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3291,6 +3754,7 @@
     },
     {
       "area": "4405",
+      "region": "มหาสารคาม เขต 5",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3298,6 +3762,7 @@
     },
     {
       "area": "4406",
+      "region": "มหาสารคาม เขต 6",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3305,6 +3770,7 @@
     },
     {
       "area": "4501",
+      "region": "ร้อยเอ็ด เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3312,6 +3778,7 @@
     },
     {
       "area": "4502",
+      "region": "ร้อยเอ็ด เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3319,6 +3786,7 @@
     },
     {
       "area": "4503",
+      "region": "ร้อยเอ็ด เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3326,6 +3794,7 @@
     },
     {
       "area": "4504",
+      "region": "ร้อยเอ็ด เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3333,6 +3802,7 @@
     },
     {
       "area": "4505",
+      "region": "ร้อยเอ็ด เขต 5",
       "mp_number": "06",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3340,6 +3810,7 @@
     },
     {
       "area": "4506",
+      "region": "ร้อยเอ็ด เขต 6",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3347,6 +3818,7 @@
     },
     {
       "area": "4507",
+      "region": "ร้อยเอ็ด เขต 7",
       "mp_number": "04",
       "mp_party": "PARTY-0048",
       "matched": true,
@@ -3354,6 +3826,7 @@
     },
     {
       "area": "4508",
+      "region": "ร้อยเอ็ด เขต 8",
       "mp_number": "06",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3361,6 +3834,7 @@
     },
     {
       "area": "4601",
+      "region": "กาฬสินธุ์ เขต 1",
       "mp_number": "06",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3368,6 +3842,7 @@
     },
     {
       "area": "4602",
+      "region": "กาฬสินธุ์ เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3375,6 +3850,7 @@
     },
     {
       "area": "4603",
+      "region": "กาฬสินธุ์ เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -3382,6 +3858,7 @@
     },
     {
       "area": "4604",
+      "region": "กาฬสินธุ์ เขต 4",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3389,6 +3866,7 @@
     },
     {
       "area": "4605",
+      "region": "กาฬสินธุ์ เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3396,6 +3874,7 @@
     },
     {
       "area": "4606",
+      "region": "กาฬสินธุ์ เขต 6",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3403,6 +3882,7 @@
     },
     {
       "area": "4701",
+      "region": "สกลนคร เขต 1",
       "mp_number": "06",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -3410,6 +3890,7 @@
     },
     {
       "area": "4702",
+      "region": "สกลนคร เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -3417,6 +3898,7 @@
     },
     {
       "area": "4703",
+      "region": "สกลนคร เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3424,6 +3906,7 @@
     },
     {
       "area": "4704",
+      "region": "สกลนคร เขต 4",
       "mp_number": "06",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3431,6 +3914,7 @@
     },
     {
       "area": "4705",
+      "region": "สกลนคร เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3438,6 +3922,7 @@
     },
     {
       "area": "4706",
+      "region": "สกลนคร เขต 6",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3445,6 +3930,7 @@
     },
     {
       "area": "4707",
+      "region": "สกลนคร เขต 7",
       "mp_number": "03",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3452,6 +3938,7 @@
     },
     {
       "area": "4801",
+      "region": "นครพนม เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3459,6 +3946,7 @@
     },
     {
       "area": "4802",
+      "region": "นครพนม เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3466,6 +3954,7 @@
     },
     {
       "area": "4803",
+      "region": "นครพนม เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3473,6 +3962,7 @@
     },
     {
       "area": "4804",
+      "region": "นครพนม เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3480,6 +3970,7 @@
     },
     {
       "area": "4901",
+      "region": "มุกดาหาร เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3487,6 +3978,7 @@
     },
     {
       "area": "4902",
+      "region": "มุกดาหาร เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3494,6 +3986,7 @@
     },
     {
       "area": "5001",
+      "region": "เชียงใหม่ เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3501,6 +3994,7 @@
     },
     {
       "area": "5002",
+      "region": "เชียงใหม่ เขต 2",
       "mp_number": "08",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3508,6 +4002,7 @@
     },
     {
       "area": "5003",
+      "region": "เชียงใหม่ เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3515,6 +4010,7 @@
     },
     {
       "area": "5004",
+      "region": "เชียงใหม่ เขต 4",
       "mp_number": "06",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3522,6 +4018,7 @@
     },
     {
       "area": "5005",
+      "region": "เชียงใหม่ เขต 5",
       "mp_number": "09",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3529,6 +4026,7 @@
     },
     {
       "area": "5006",
+      "region": "เชียงใหม่ เขต 6",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3536,6 +4034,7 @@
     },
     {
       "area": "5007",
+      "region": "เชียงใหม่ เขต 7",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3543,6 +4042,7 @@
     },
     {
       "area": "5008",
+      "region": "เชียงใหม่ เขต 8",
       "mp_number": "04",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3550,6 +4050,7 @@
     },
     {
       "area": "5009",
+      "region": "เชียงใหม่ เขต 9",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3557,6 +4058,7 @@
     },
     {
       "area": "5010",
+      "region": "เชียงใหม่ เขต 10",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3564,6 +4066,7 @@
     },
     {
       "area": "5101",
+      "region": "ลำพูน เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3571,6 +4074,7 @@
     },
     {
       "area": "5102",
+      "region": "ลำพูน เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "matched": true,
@@ -3578,6 +4082,7 @@
     },
     {
       "area": "5201",
+      "region": "ลำปาง เขต 1",
       "mp_number": "08",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3585,6 +4090,7 @@
     },
     {
       "area": "5202",
+      "region": "ลำปาง เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3592,6 +4098,7 @@
     },
     {
       "area": "5203",
+      "region": "ลำปาง เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3599,6 +4106,7 @@
     },
     {
       "area": "5204",
+      "region": "ลำปาง เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3606,6 +4114,7 @@
     },
     {
       "area": "5301",
+      "region": "อุตรดิตถ์ เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3613,6 +4122,7 @@
     },
     {
       "area": "5302",
+      "region": "อุตรดิตถ์ เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0044",
       "matched": true,
@@ -3620,6 +4130,7 @@
     },
     {
       "area": "5303",
+      "region": "อุตรดิตถ์ เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3627,6 +4138,7 @@
     },
     {
       "area": "5401",
+      "region": "แพร่ เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3634,6 +4146,7 @@
     },
     {
       "area": "5402",
+      "region": "แพร่ เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3641,6 +4154,7 @@
     },
     {
       "area": "5403",
+      "region": "แพร่ เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3648,6 +4162,7 @@
     },
     {
       "area": "5501",
+      "region": "น่าน เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3655,6 +4170,7 @@
     },
     {
       "area": "5502",
+      "region": "น่าน เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3662,6 +4178,7 @@
     },
     {
       "area": "5503",
+      "region": "น่าน เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0046",
       "matched": true,
@@ -3669,6 +4186,7 @@
     },
     {
       "area": "5601",
+      "region": "พะเยา เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3676,6 +4194,7 @@
     },
     {
       "area": "5602",
+      "region": "พะเยา เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3683,6 +4202,7 @@
     },
     {
       "area": "5603",
+      "region": "พะเยา เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3690,6 +4210,7 @@
     },
     {
       "area": "5701",
+      "region": "เชียงราย เขต 1",
       "mp_number": "07",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3697,6 +4218,7 @@
     },
     {
       "area": "5702",
+      "region": "เชียงราย เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3704,6 +4226,7 @@
     },
     {
       "area": "5703",
+      "region": "เชียงราย เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3711,6 +4234,7 @@
     },
     {
       "area": "5704",
+      "region": "เชียงราย เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3718,6 +4242,7 @@
     },
     {
       "area": "5705",
+      "region": "เชียงราย เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3725,6 +4250,7 @@
     },
     {
       "area": "5706",
+      "region": "เชียงราย เขต 6",
       "mp_number": "07",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3732,6 +4258,7 @@
     },
     {
       "area": "5707",
+      "region": "เชียงราย เขต 7",
       "mp_number": "06",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -3739,6 +4266,7 @@
     },
     {
       "area": "5801",
+      "region": "แม่ฮ่องสอน เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3746,6 +4274,7 @@
     },
     {
       "area": "5802",
+      "region": "แม่ฮ่องสอน เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3753,6 +4282,7 @@
     },
     {
       "area": "6001",
+      "region": "นครสวรรค์ เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3760,6 +4290,7 @@
     },
     {
       "area": "6002",
+      "region": "นครสวรรค์ เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3767,6 +4298,7 @@
     },
     {
       "area": "6003",
+      "region": "นครสวรรค์ เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3774,6 +4306,7 @@
     },
     {
       "area": "6004",
+      "region": "นครสวรรค์ เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3781,6 +4314,7 @@
     },
     {
       "area": "6005",
+      "region": "นครสวรรค์ เขต 5",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3788,6 +4322,7 @@
     },
     {
       "area": "6006",
+      "region": "นครสวรรค์ เขต 6",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3795,6 +4330,7 @@
     },
     {
       "area": "6101",
+      "region": "อุทัยธานี เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3802,6 +4338,7 @@
     },
     {
       "area": "6102",
+      "region": "อุทัยธานี เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3809,6 +4346,7 @@
     },
     {
       "area": "6201",
+      "region": "กำแพงเพชร เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3816,6 +4354,7 @@
     },
     {
       "area": "6202",
+      "region": "กำแพงเพชร เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3823,6 +4362,7 @@
     },
     {
       "area": "6203",
+      "region": "กำแพงเพชร เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3830,6 +4370,7 @@
     },
     {
       "area": "6204",
+      "region": "กำแพงเพชร เขต 4",
       "mp_number": "07",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3837,6 +4378,7 @@
     },
     {
       "area": "6301",
+      "region": "ตาก เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3844,6 +4386,7 @@
     },
     {
       "area": "6302",
+      "region": "ตาก เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3851,6 +4394,7 @@
     },
     {
       "area": "6303",
+      "region": "ตาก เขต 3",
       "mp_number": "06",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -3858,6 +4402,7 @@
     },
     {
       "area": "6401",
+      "region": "สุโขทัย เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3865,6 +4410,7 @@
     },
     {
       "area": "6402",
+      "region": "สุโขทัย เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3872,6 +4418,7 @@
     },
     {
       "area": "6403",
+      "region": "สุโขทัย เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -3879,6 +4426,7 @@
     },
     {
       "area": "6404",
+      "region": "สุโขทัย เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3886,6 +4434,7 @@
     },
     {
       "area": "6501",
+      "region": "พิษณุโลก เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -3893,6 +4442,7 @@
     },
     {
       "area": "6502",
+      "region": "พิษณุโลก เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0009",
       "matched": false,
@@ -3900,6 +4450,7 @@
     },
     {
       "area": "6503",
+      "region": "พิษณุโลก เขต 3",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3907,6 +4458,7 @@
     },
     {
       "area": "6504",
+      "region": "พิษณุโลก เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3914,6 +4466,7 @@
     },
     {
       "area": "6505",
+      "region": "พิษณุโลก เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3921,6 +4474,7 @@
     },
     {
       "area": "6601",
+      "region": "พิจิตร เขต 1",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3928,6 +4482,7 @@
     },
     {
       "area": "6602",
+      "region": "พิจิตร เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3935,6 +4490,7 @@
     },
     {
       "area": "6603",
+      "region": "พิจิตร เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3942,6 +4498,7 @@
     },
     {
       "area": "6701",
+      "region": "เพชรบูรณ์ เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3949,6 +4506,7 @@
     },
     {
       "area": "6702",
+      "region": "เพชรบูรณ์ เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -3956,6 +4514,7 @@
     },
     {
       "area": "6703",
+      "region": "เพชรบูรณ์ เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3963,6 +4522,7 @@
     },
     {
       "area": "6704",
+      "region": "เพชรบูรณ์ เขต 4",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3970,6 +4530,7 @@
     },
     {
       "area": "6705",
+      "region": "เพชรบูรณ์ เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3977,6 +4538,7 @@
     },
     {
       "area": "6706",
+      "region": "เพชรบูรณ์ เขต 6",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3984,6 +4546,7 @@
     },
     {
       "area": "7001",
+      "region": "ราชบุรี เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -3991,6 +4554,7 @@
     },
     {
       "area": "7002",
+      "region": "ราชบุรี เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -3998,6 +4562,7 @@
     },
     {
       "area": "7003",
+      "region": "ราชบุรี เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4005,6 +4570,7 @@
     },
     {
       "area": "7004",
+      "region": "ราชบุรี เขต 4",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4012,6 +4578,7 @@
     },
     {
       "area": "7005",
+      "region": "ราชบุรี เขต 5",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4019,6 +4586,7 @@
     },
     {
       "area": "7101",
+      "region": "กาญจนบุรี เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -4026,6 +4594,7 @@
     },
     {
       "area": "7102",
+      "region": "กาญจนบุรี เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4033,6 +4602,7 @@
     },
     {
       "area": "7103",
+      "region": "กาญจนบุรี เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4040,6 +4610,7 @@
     },
     {
       "area": "7104",
+      "region": "กาญจนบุรี เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4047,6 +4618,7 @@
     },
     {
       "area": "7105",
+      "region": "กาญจนบุรี เขต 5",
       "mp_number": "02",
       "mp_party": "PARTY-0009",
       "matched": true,
@@ -4054,6 +4626,7 @@
     },
     {
       "area": "7201",
+      "region": "สุพรรณบุรี เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4061,6 +4634,7 @@
     },
     {
       "area": "7202",
+      "region": "สุพรรณบุรี เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4068,6 +4642,7 @@
     },
     {
       "area": "7203",
+      "region": "สุพรรณบุรี เขต 3",
       "mp_number": "06",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -4075,6 +4650,7 @@
     },
     {
       "area": "7204",
+      "region": "สุพรรณบุรี เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4082,6 +4658,7 @@
     },
     {
       "area": "7205",
+      "region": "สุพรรณบุรี เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4089,6 +4666,7 @@
     },
     {
       "area": "7301",
+      "region": "นครปฐม เขต 1",
       "mp_number": "08",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4096,6 +4674,7 @@
     },
     {
       "area": "7302",
+      "region": "นครปฐม เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4103,6 +4682,7 @@
     },
     {
       "area": "7303",
+      "region": "นครปฐม เขต 3",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4110,6 +4690,7 @@
     },
     {
       "area": "7304",
+      "region": "นครปฐม เขต 4",
       "mp_number": "08",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4117,6 +4698,7 @@
     },
     {
       "area": "7305",
+      "region": "นครปฐม เขต 5",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4124,6 +4706,7 @@
     },
     {
       "area": "7306",
+      "region": "นครปฐม เขต 6",
       "mp_number": "01",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -4131,6 +4714,7 @@
     },
     {
       "area": "7401",
+      "region": "สมุทรสาคร เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -4138,6 +4722,7 @@
     },
     {
       "area": "7402",
+      "region": "สมุทรสาคร เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4145,6 +4730,7 @@
     },
     {
       "area": "7403",
+      "region": "สมุทรสาคร เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -4152,6 +4738,7 @@
     },
     {
       "area": "7404",
+      "region": "สมุทรสาคร เขต 4",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4159,6 +4746,7 @@
     },
     {
       "area": "7501",
+      "region": "สมุทรสงคราม เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -4166,6 +4754,7 @@
     },
     {
       "area": "7601",
+      "region": "เพชรบุรี เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4173,6 +4762,7 @@
     },
     {
       "area": "7602",
+      "region": "เพชรบุรี เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4180,6 +4770,7 @@
     },
     {
       "area": "7603",
+      "region": "เพชรบุรี เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4187,6 +4778,7 @@
     },
     {
       "area": "7701",
+      "region": "ประจวบคีรีขันธ์ เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4194,6 +4786,7 @@
     },
     {
       "area": "7702",
+      "region": "ประจวบคีรีขันธ์ เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4201,6 +4794,7 @@
     },
     {
       "area": "7703",
+      "region": "ประจวบคีรีขันธ์ เขต 3",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4208,6 +4802,7 @@
     },
     {
       "area": "8001",
+      "region": "นครศรีธรรมราช เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0027",
       "matched": false,
@@ -4215,6 +4810,7 @@
     },
     {
       "area": "8002",
+      "region": "นครศรีธรรมราช เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4222,6 +4818,7 @@
     },
     {
       "area": "8003",
+      "region": "นครศรีธรรมราช เขต 3",
       "mp_number": "01",
       "mp_party": "PARTY-0027",
       "matched": true,
@@ -4229,6 +4826,7 @@
     },
     {
       "area": "8004",
+      "region": "นครศรีธรรมราช เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0027",
       "matched": false,
@@ -4236,6 +4834,7 @@
     },
     {
       "area": "8005",
+      "region": "นครศรีธรรมราช เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -4243,6 +4842,7 @@
     },
     {
       "area": "8006",
+      "region": "นครศรีธรรมราช เขต 6",
       "mp_number": "03",
       "mp_party": "PARTY-0027",
       "matched": false,
@@ -4250,6 +4850,7 @@
     },
     {
       "area": "8007",
+      "region": "นครศรีธรรมราช เขต 7",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4257,6 +4858,7 @@
     },
     {
       "area": "8008",
+      "region": "นครศรีธรรมราช เขต 8",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4264,6 +4866,7 @@
     },
     {
       "area": "8009",
+      "region": "นครศรีธรรมราช เขต 9",
       "mp_number": "07",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4271,6 +4874,7 @@
     },
     {
       "area": "8101",
+      "region": "กระบี่ เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4278,6 +4882,7 @@
     },
     {
       "area": "8102",
+      "region": "กระบี่ เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4285,6 +4890,7 @@
     },
     {
       "area": "8103",
+      "region": "กระบี่ เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4292,6 +4898,7 @@
     },
     {
       "area": "8201",
+      "region": "พังงา เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4299,6 +4906,7 @@
     },
     {
       "area": "8202",
+      "region": "พังงา เขต 2",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4306,6 +4914,7 @@
     },
     {
       "area": "8301",
+      "region": "ภูเก็ต เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -4313,6 +4922,7 @@
     },
     {
       "area": "8302",
+      "region": "ภูเก็ต เขต 2",
       "mp_number": "06",
       "mp_party": "PARTY-0046",
       "matched": false,
@@ -4320,6 +4930,7 @@
     },
     {
       "area": "8303",
+      "region": "ภูเก็ต เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -4327,6 +4938,7 @@
     },
     {
       "area": "8401",
+      "region": "สุราษฎร์ธานี เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4334,6 +4946,7 @@
     },
     {
       "area": "8402",
+      "region": "สุราษฎร์ธานี เขต 2",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4341,6 +4954,7 @@
     },
     {
       "area": "8403",
+      "region": "สุราษฎร์ธานี เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0021",
       "matched": true,
@@ -4348,6 +4962,7 @@
     },
     {
       "area": "8404",
+      "region": "สุราษฎร์ธานี เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0027",
       "matched": false,
@@ -4355,6 +4970,7 @@
     },
     {
       "area": "8405",
+      "region": "สุราษฎร์ธานี เขต 5",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4362,6 +4978,7 @@
     },
     {
       "area": "8406",
+      "region": "สุราษฎร์ธานี เขต 6",
       "mp_number": "06",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4369,6 +4986,7 @@
     },
     {
       "area": "8407",
+      "region": "สุราษฎร์ธานี เขต 7",
       "mp_number": "06",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -4376,6 +4994,7 @@
     },
     {
       "area": "8501",
+      "region": "ระนอง เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4383,6 +5002,7 @@
     },
     {
       "area": "8601",
+      "region": "ชุมพร เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4390,6 +5010,7 @@
     },
     {
       "area": "8602",
+      "region": "ชุมพร เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4397,6 +5018,7 @@
     },
     {
       "area": "8603",
+      "region": "ชุมพร เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4404,6 +5026,7 @@
     },
     {
       "area": "9001",
+      "region": "สงขลา เขต 1",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4411,6 +5034,7 @@
     },
     {
       "area": "9002",
+      "region": "สงขลา เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0027",
       "matched": false,
@@ -4418,6 +5042,7 @@
     },
     {
       "area": "9003",
+      "region": "สงขลา เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4425,6 +5050,7 @@
     },
     {
       "area": "9004",
+      "region": "สงขลา เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4432,6 +5058,7 @@
     },
     {
       "area": "9005",
+      "region": "สงขลา เขต 5",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4439,6 +5066,7 @@
     },
     {
       "area": "9006",
+      "region": "สงขลา เขต 6",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4446,6 +5074,7 @@
     },
     {
       "area": "9007",
+      "region": "สงขลา เขต 7",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4453,6 +5082,7 @@
     },
     {
       "area": "9008",
+      "region": "สงขลา เขต 8",
       "mp_number": "03",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4460,6 +5090,7 @@
     },
     {
       "area": "9009",
+      "region": "สงขลา เขต 9",
       "mp_number": "02",
       "mp_party": "PARTY-0027",
       "matched": true,
@@ -4467,6 +5098,7 @@
     },
     {
       "area": "9101",
+      "region": "สตูล เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4474,6 +5106,7 @@
     },
     {
       "area": "9102",
+      "region": "สตูล เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4481,6 +5114,7 @@
     },
     {
       "area": "9201",
+      "region": "ตรัง เขต 1",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4488,6 +5122,7 @@
     },
     {
       "area": "9202",
+      "region": "ตรัง เขต 2",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4495,6 +5130,7 @@
     },
     {
       "area": "9203",
+      "region": "ตรัง เขต 3",
       "mp_number": "05",
       "mp_party": "PARTY-0027",
       "matched": true,
@@ -4502,6 +5138,7 @@
     },
     {
       "area": "9204",
+      "region": "ตรัง เขต 4",
       "mp_number": "02",
       "mp_party": "PARTY-0027",
       "matched": true,
@@ -4509,6 +5146,7 @@
     },
     {
       "area": "9301",
+      "region": "พัทลุง เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": false,
@@ -4516,6 +5154,7 @@
     },
     {
       "area": "9302",
+      "region": "พัทลุง เขต 2",
       "mp_number": "01",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4523,6 +5162,7 @@
     },
     {
       "area": "9303",
+      "region": "พัทลุง เขต 3",
       "mp_number": "06",
       "mp_party": "PARTY-0042",
       "matched": false,
@@ -4530,6 +5170,7 @@
     },
     {
       "area": "9401",
+      "region": "ปัตตานี เขต 1",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4537,6 +5178,7 @@
     },
     {
       "area": "9402",
+      "region": "ปัตตานี เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4544,6 +5186,7 @@
     },
     {
       "area": "9403",
+      "region": "ปัตตานี เขต 3",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4551,6 +5194,7 @@
     },
     {
       "area": "9404",
+      "region": "ปัตตานี เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4558,6 +5202,7 @@
     },
     {
       "area": "9405",
+      "region": "ปัตตานี เขต 5",
       "mp_number": "04",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4565,6 +5210,7 @@
     },
     {
       "area": "9501",
+      "region": "ยะลา เขต 1",
       "mp_number": "03",
       "mp_party": "PARTY-0033",
       "matched": true,
@@ -4572,6 +5218,7 @@
     },
     {
       "area": "9502",
+      "region": "ยะลา เขต 2",
       "mp_number": "07",
       "mp_party": "PARTY-0033",
       "matched": true,
@@ -4579,6 +5226,7 @@
     },
     {
       "area": "9503",
+      "region": "ยะลา เขต 3",
       "mp_number": "03",
       "mp_party": "PARTY-0033",
       "matched": true,
@@ -4586,6 +5234,7 @@
     },
     {
       "area": "9601",
+      "region": "นราธิวาส เขต 1",
       "mp_number": "04",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4593,6 +5242,7 @@
     },
     {
       "area": "9602",
+      "region": "นราธิวาส เขต 2",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4600,6 +5250,7 @@
     },
     {
       "area": "9603",
+      "region": "นราธิวาส เขต 3",
       "mp_number": "02",
       "mp_party": "PARTY-0042",
       "matched": true,
@@ -4607,6 +5258,7 @@
     },
     {
       "area": "9604",
+      "region": "นราธิวาส เขต 4",
       "mp_number": "05",
       "mp_party": "PARTY-0037",
       "matched": true,
@@ -4614,6 +5266,7 @@
     },
     {
       "area": "9605",
+      "region": "นราธิวาส เขต 5",
       "mp_number": "01",
       "mp_party": "PARTY-0033",
       "matched": true,

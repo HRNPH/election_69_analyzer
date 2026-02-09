@@ -328,7 +328,7 @@
         return `<div class="section" id="details-section">
             <h2>📋 รายละเอียดแต่ละเขต</h2>
             <div class="filter-bar">
-                <input type="text" id="filter-area" placeholder="ค้นหารหัสเขต...">
+                <input type="text" id="filter-area" placeholder="ค้นหารหัสเขต / จังหวัด...">
                 <select id="filter-match">
                     <option value="all">ทั้งหมด</option>
                     <option value="match">เฉพาะเขตที่ตรงกัน</option>
@@ -351,15 +351,17 @@
         const rows = data.details.map(r => {
             const cls = r.matched ? 'match-yes' : 'match-no';
             const statusText = translateStatus(r.status, r.matched);
-            return `<tr data-area="${r.area}" data-match="${r.matched}" data-party="${r.mp_party}">
+            const region = r.region || '';
+            return `<tr data-area="${r.area}" data-region="${region}" data-match="${r.matched}" data-party="${r.mp_party}">
                 <td>${r.area}</td>
+                <td>${region}</td>
                 <td>${r.mp_number}</td>
                 <td>${r.mp_party}</td>
                 <td class="${cls}">${statusText}</td>
             </tr>`;
         }).join('');
         return `<div class="table-wrapper" id="table-wrapper"><table>
-            <thead><tr><th>เขต</th><th>เบอร์ ส.ส. ที่ชนะ</th><th>พรรค ส.ส.</th><th>สถานะ</th></tr></thead>
+            <thead><tr><th>เขต</th><th>จังหวัด/เขตเลือกตั้ง</th><th>เบอร์ ส.ส. ที่ชนะ</th><th>พรรค ส.ส.</th><th>สถานะ</th></tr></thead>
             <tbody id="details-body">${rows}</tbody>
         </table></div>`;
     }
@@ -401,10 +403,11 @@
             const rows = document.querySelectorAll('#details-body tr');
             rows.forEach(row => {
                 const area = row.dataset.area;
+                const region = (row.dataset.region || '').toLowerCase();
                 const isMatch = row.dataset.match === 'true';
                 const party = row.dataset.party;
                 let show = true;
-                if (areaQuery && !area.includes(areaQuery)) show = false;
+                if (areaQuery && !area.includes(areaQuery) && !region.includes(areaQuery)) show = false;
                 if (matchFilter === 'match' && !isMatch) show = false;
                 if (matchFilter === 'no-match' && isMatch) show = false;
                 if (partyFilter !== 'all' && party !== partyFilter) show = false;
