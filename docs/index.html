@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="th">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thai Election 69 - Correlation Analyzer</title>
+    <title>เลือกตั้ง 69 — ตรวจสอบความผิดปกติ เบอร์เขต vs บัญชีรายชื่อ</title>
     <style>
         :root {
             --bg: #ffffff;
@@ -22,7 +22,7 @@
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background: var(--bg);
             color: var(--text);
-            line-height: 1.6;
+            line-height: 1.8;
         }
         .container { max-width: 1200px; margin: 0 auto; padding: 1.5rem; }
         header {
@@ -42,6 +42,42 @@
             margin-top: 0.75rem;
             font-size: 0.85rem;
             color: var(--accent-light);
+        }
+        .disclaimer {
+            background: #fef2f2;
+            border: 1px solid #fecaca;
+            border-radius: 8px;
+            padding: 1rem 1.25rem;
+            margin-bottom: 2rem;
+            font-size: 0.85rem;
+            color: #991b1b;
+            text-align: center;
+        }
+        .context-box {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            font-size: 0.9rem;
+            line-height: 1.9;
+        }
+        .context-box h2 {
+            font-size: 1.2rem;
+            margin-bottom: 0.75rem;
+            color: var(--accent);
+        }
+        .context-box ul {
+            margin: 0.5rem 0 0.5rem 1.25rem;
+        }
+        .context-box li {
+            margin-bottom: 0.3rem;
+        }
+        .context-box .note {
+            margin-top: 0.75rem;
+            font-size: 0.82rem;
+            color: var(--text-muted);
+            font-style: italic;
         }
         .stats-grid {
             display: grid;
@@ -127,13 +163,12 @@
             color: var(--text-muted);
             font-weight: 600;
             font-size: 0.8rem;
-            text-transform: uppercase;
             letter-spacing: 0.05em;
             position: sticky;
             top: 0;
         }
         tr:hover { background: rgba(249, 115, 22, 0.06); }
-        .match-yes { color: var(--green); font-weight: 600; }
+        .match-yes { color: var(--accent); font-weight: 600; }
         .match-no { color: var(--text-muted); }
         .table-wrapper {
             background: var(--surface);
@@ -202,22 +237,39 @@
 <body>
     <div class="container">
         <header>
-            <h1>🗳️ Thai Election 69 — Correlation Analyzer</h1>
-            <p>MP Candidate Number vs Party List Ranking Correlation</p>
-            <div class="timestamp" id="timestamp">Loading...</div>
+            <h1>🔥 เลือกตั้ง 69 — ตรวจสอบความผิดปกติ เบอร์เขต vs บัญชีรายชื่อ</h1>
+            <p>เครื่องมือวิเคราะห์ความสัมพันธ์ระหว่าง "เบอร์ผู้ชนะ ส.ส. เขต" กับ "อันดับคะแนนบัญชีรายชื่อ" ในแต่ละเขตเลือกตั้ง</p>
+            <div class="timestamp" id="timestamp">กำลังโหลด...</div>
         </header>
+
+        <div class="disclaimer">
+            ⚠️ <strong>Disclaimer:</strong> เว็บไซต์นี้จัดทำเพื่อการศึกษาและวิเคราะห์เชิงสถิติเท่านั้น ไม่ได้ฟันธงว่าพรรคใดซื้อเสียงหรือไม่ซื้อเสียง ข้อมูลอ้างอิงจากผลการเลือกตั้งอย่างไม่เป็นทางการ
+        </div>
+
+        <div class="context-box">
+            <h2>📍 ที่มาและแนวคิด</h2>
+            <p>วิธี "ซื้อเสียง" แบบหนึ่งที่พบบ่อย คือการบอกให้ <strong>กาเบอร์เดียวกันทั้ง 2 ใบ</strong> (ใบเขต + ใบบัญชีรายชื่อ) เพื่อกันพลาด เช่น ซื้อเสียงเบอร์ 1 ก็บอกให้กาเบอร์ 1 ทั้งสองใบ ส่งผลให้:</p>
+            <ul>
+                <li>พรรคที่จับสลากได้ <strong>เบอร์บัญชีรายชื่อหลักเดียว (1-9)</strong> ได้คะแนนบัญชีรายชื่อ "ฟรี" ขึ้นมาหลักแสนคะแนน</li>
+                <li>บางพรรคคะแนนเขตหลักร้อย แต่ได้บัญชีรายชื่อหลักแสน — ต่างกันถึง <strong>100 เท่า</strong></li>
+                <li>ปรากฏการณ์นี้เกิดซ้ำทั้งใน <strong>เลือกตั้ง 2566 และ 2569</strong></li>
+            </ul>
+            <p>เว็บนี้จะตรวจสอบทุกเขตโดยอัตโนมัติว่า <strong>เบอร์ผู้ชนะ ส.ส. เขต ตรงกับเบอร์พรรคที่ติด Top 7 บัญชีรายชื่อในเขตนั้นหรือไม่</strong> ถ้าตรง = อาจมีความผิดปกติที่ควรตรวจสอบเพิ่มเติม</p>
+            <p class="note">หมายเหตุ: ในการวิเคราะห์นี้ได้เว้นพรรคใหญ่ที่ได้เบอร์เลขเดียว คือ เบอร์ 6 พรรครวมไทยสร้างชาติ และ เบอร์ 9 พรรคเพื่อไทย เนื่องจากมีฐานเสียงบัญชีรายชื่อสูงอยู่แล้ว &bull; แรงบันดาลใจจาก <a href="https://www.facebook.com/KhajochiBlog/posts/pfbid02qyYXY3NH7zns1gr3Emhdcij48y8UFQg3htvXYHRgfaDosjhQzytHapCAAj3bLhgl" target="_blank" aria-label="โพสต์ต้นฉบับของ Khajochi's Blog บน Facebook">Khajochi's Blog</a></p>
+        </div>
 
         <div id="content">
             <div class="loading">
                 <div class="spinner"></div>
-                <div>Loading analysis data...</div>
+                <div>กำลังโหลดข้อมูลวิเคราะห์...</div>
             </div>
         </div>
 
         <footer>
-            <p>Data source: <a href="https://www.thaipbs.or.th/election69/result/en/geo?region=all&view=area" target="_blank">Thai PBS Election 69</a> (Unofficial Results)</p>
-            <p style="margin-top:0.3rem;">Excludes Party 06 (United Thai Nation) and 09 (Pheu Thai) from comparison &bull;
+            <p>แหล่งข้อมูล: <a href="https://www.thaipbs.or.th/election69/result/en/geo?region=all&view=area" target="_blank">Thai PBS เลือกตั้ง 69</a> (ผลอย่างไม่เป็นทางการ)</p>
+            <p style="margin-top:0.3rem;">ไม่นับรวมพรรค 06 (รวมไทยสร้างชาติ) และ 09 (เพื่อไทย) ในการเปรียบเทียบ &bull;
             <a href="https://github.com/HRNPH/election_69_analyzer" target="_blank">GitHub Repository</a></p>
+            <p style="margin-top:0.5rem; font-style:italic;">* Disclaimer: จัดทำเพื่อการศึกษาเท่านั้น ไม่ได้ฟันธงว่าใครซื้อหรือไม่ซื้อเสียง</p>
         </footer>
     </div>
 
@@ -232,29 +284,29 @@
                 fetch('data/history.json').catch(() => null)
             ]);
 
-            if (!resultsRes.ok) throw new Error('Results data not available yet.');
+            if (!resultsRes.ok) throw new Error('ยังไม่มีข้อมูลวิเคราะห์');
             const data = await resultsRes.json();
             const history = historyRes && historyRes.ok ? await historyRes.json() : [];
 
             // Timestamp
             const ts = new Date(data.timestamp);
-            timestampEl.textContent = `Last updated: ${ts.toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'medium', timeZone: 'Asia/Bangkok' })} (Asia/Bangkok)`;
+            timestampEl.textContent = `อัปเดตล่าสุด: ${ts.toLocaleString('th-TH', { dateStyle: 'long', timeStyle: 'medium', timeZone: 'Asia/Bangkok' })}`;
 
             // Render
             contentEl.innerHTML = renderStats(data) + renderChart(data) + renderFilters() + renderTable(data) + renderHistory(history);
             setupFilters(data);
 
         } catch (err) {
-            contentEl.innerHTML = `<div class="error-msg">⚠️ ${err.message}<br><small>Run the analysis with <code>--export</code> flag or wait for the next scheduled update.</small></div>`;
+            contentEl.innerHTML = `<div class="error-msg">⚠️ ${err.message}<br><small>รันวิเคราะห์ด้วย <code>--export</code> หรือรอการอัปเดตอัตโนมัติรอบถัดไป</small></div>`;
         }
     })();
 
     function renderStats(data) {
         return `<div class="stats-grid">
-            <div class="stat-card"><div class="value">${data.total_areas}</div><div class="label">Total Areas Analyzed</div></div>
-            <div class="stat-card"><div class="value">${data.matched_areas}</div><div class="label">Areas with Match</div></div>
-            <div class="stat-card"><div class="value">${data.match_rate}%</div><div class="label">Match Rate</div></div>
-            <div class="stat-card"><div class="value">${data.summary_by_party.length}</div><div class="label">Parties with Matches</div></div>
+            <div class="stat-card"><div class="value">${data.total_areas}</div><div class="label">เขตที่วิเคราะห์ทั้งหมด</div></div>
+            <div class="stat-card"><div class="value">${data.matched_areas}</div><div class="label">เขตที่พบความตรงกัน</div></div>
+            <div class="stat-card"><div class="value">${data.match_rate}%</div><div class="label">อัตราความตรงกัน</div></div>
+            <div class="stat-card"><div class="value">${data.summary_by_party.length}</div><div class="label">จำนวนพรรคที่พบ</div></div>
         </div>`;
     }
 
@@ -266,31 +318,39 @@
             return `<div class="bar-row">
                 <div class="bar-label">${p.party_code}</div>
                 <div class="bar-track"><div class="bar-fill" style="width:${pct}%"></div></div>
-                <div class="bar-value">${p.match_count}</div>
+                <div class="bar-value">${p.match_count} เขต</div>
             </div>`;
         }).join('');
-        return `<div class="section"><h2>📊 Matches by Party</h2><div class="chart-container">${bars}</div></div>`;
+        return `<div class="section"><h2>📊 จำนวนเขตที่ "เบอร์ตรง" แยกตามพรรค</h2><div class="chart-container">${bars}</div></div>`;
     }
 
     function renderFilters() {
         return `<div class="section" id="details-section">
-            <h2>📋 Area Details</h2>
+            <h2>📋 รายละเอียดแต่ละเขต</h2>
             <div class="filter-bar">
-                <input type="text" id="filter-area" placeholder="Search area code...">
+                <input type="text" id="filter-area" placeholder="ค้นหารหัสเขต...">
                 <select id="filter-match">
-                    <option value="all">All</option>
-                    <option value="match">Matches Only</option>
-                    <option value="no-match">No Match Only</option>
+                    <option value="all">ทั้งหมด</option>
+                    <option value="match">เฉพาะเขตที่ตรงกัน</option>
+                    <option value="no-match">เฉพาะเขตที่ไม่ตรง</option>
                 </select>
-                <select id="filter-party"><option value="all">All Parties</option></select>
+                <select id="filter-party"><option value="all">ทุกพรรค</option></select>
             </div>
         </div>`;
+    }
+
+    function translateStatus(status, matched) {
+        if (!matched) return 'ไม่ตรง';
+        return status
+            .replace(/^MATCH:\s*/, '🔥 ตรงกัน: ')
+            .replace(/Rank\s*/g, 'อันดับ ')
+            .replace(/\(Party List\s*/g, '(บัญชีรายชื่อ เบอร์ ');
     }
 
     function renderTable(data) {
         const rows = data.details.map(r => {
             const cls = r.matched ? 'match-yes' : 'match-no';
-            const statusText = r.matched ? r.status : 'No Match';
+            const statusText = translateStatus(r.status, r.matched);
             return `<tr data-area="${r.area}" data-match="${r.matched}" data-party="${r.mp_party}">
                 <td>${r.area}</td>
                 <td>${r.mp_number}</td>
@@ -299,7 +359,7 @@
             </tr>`;
         }).join('');
         return `<div class="table-wrapper" id="table-wrapper"><table>
-            <thead><tr><th>Area</th><th>MP Number</th><th>MP Party</th><th>Status</th></tr></thead>
+            <thead><tr><th>เขต</th><th>เบอร์ ส.ส. ที่ชนะ</th><th>พรรค ส.ส.</th><th>สถานะ</th></tr></thead>
             <tbody id="details-body">${rows}</tbody>
         </table></div>`;
     }
@@ -309,15 +369,15 @@
         const rows = history.slice().reverse().map(h => {
             const ts = new Date(h.timestamp);
             return `<tr>
-                <td>${ts.toLocaleString('en-GB', { dateStyle: 'short', timeStyle: 'short', timeZone: 'Asia/Bangkok' })}</td>
+                <td>${ts.toLocaleString('th-TH', { dateStyle: 'short', timeStyle: 'short', timeZone: 'Asia/Bangkok' })}</td>
                 <td>${h.total_areas}</td>
                 <td>${h.matched_areas}</td>
                 <td>${h.match_rate}%</td>
             </tr>`;
         }).join('');
-        return `<div class="section history-section"><h2>📈 Scrape History</h2>
+        return `<div class="section history-section"><h2>📈 ประวัติการดึงข้อมูล</h2>
             <div class="table-wrapper"><table class="history-table">
-                <thead><tr><th>Timestamp</th><th>Areas</th><th>Matches</th><th>Rate</th></tr></thead>
+                <thead><tr><th>เวลา</th><th>จำนวนเขต</th><th>ตรงกัน</th><th>อัตรา</th></tr></thead>
                 <tbody>${rows}</tbody>
             </table></div></div>`;
     }
