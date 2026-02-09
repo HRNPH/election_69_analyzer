@@ -1,6 +1,23 @@
 import os
+import csv
 import json
 from datetime import datetime, timezone
+
+def load_region_code_map(csv_path="data/region-code/region-code.csv"):
+    """
+    Loads region-code.csv and returns a dict mapping electoral_code -> "zone เขต district".
+    """
+    region_map = {}
+    if not os.path.exists(csv_path):
+        return region_map
+    with open(csv_path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            code = row["electoral_code"].strip()
+            zone = row["zone"].strip()
+            district = row["district"].strip()
+            region_map[code] = f"{zone} เขต {district}"
+    return region_map
 
 def compare_mp_and_pl(export_json=False):
     """
@@ -14,10 +31,12 @@ def compare_mp_and_pl(export_json=False):
         print("Error: data/mp or data/pl directory not found.")
         return
 
+    region_map = load_region_code_map()
+
     mp_files = sorted([f for f in os.listdir(mp_dir) if f.endswith(".json")])
     
-    print(f"{'Area':<6} | {'MP Num':<6} | {'MP Party':<10} | {'Status':<30}")
-    print("-" * 50)
+    print(f"{'Area':<6} | {'Region':<30} | {'MP Num':<6} | {'MP Party':<10} | {'Status':<30}")
+    print("-" * 90)
 
     all_matches = []
     all_rows = []
@@ -71,6 +90,7 @@ def compare_mp_and_pl(export_json=False):
                 if last_2 == mp_number:
                     match_info = {
                         "area": area_code,
+                        "region": region_map.get(area_code, ""),
                         "mp_number": mp_number,
                         "mp_party": mp_party,
                         "pl_rank": pl_entry.get('rank'),
@@ -85,15 +105,18 @@ def compare_mp_and_pl(export_json=False):
             else:
                 status = "No Match"
 
+            region_name = region_map.get(area_code, "")
+
             all_rows.append({
                 "area": area_code,
+                "region": region_name,
                 "mp_number": mp_number,
                 "mp_party": mp_party,
                 "matched": len(matches) > 0,
                 "status": status
             })
                 
-            print(f"{area_code:<6} | {mp_number:<6} | {mp_party:<10} | {status}")
+            print(f"{area_code:<6} | {region_name:<30} | {mp_number:<6} | {mp_party:<10} | {status}")
 
         except Exception as e:
             print(f"Error processing {area_code}: {e}")
