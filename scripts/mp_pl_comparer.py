@@ -14,7 +14,7 @@ def compare_mp_and_pl():
 
     mp_files = [f for f in os.listdir(mp_dir) if f.endswith(".json")]
     
-    print(f"{'Area':<6} | {'MP Num':<6} | {'Status':<30}")
+    print(f"{'Area':<6} | {'MP Num':<6} | {'MP Party':<10} | {'Status':<30}")
     print("-" * 50)
 
     all_matches = []
@@ -82,7 +82,7 @@ def compare_mp_and_pl():
             else:
                 status = "No Match"
                 
-            print(f"{area_code:<6} | {mp_number:<6} | {status}")
+            print(f"{area_code:<6} | {mp_number:<6} | {mp_party:<10} | {status}")
 
         except Exception as e:
             print(f"Error processing {area_code}: {e}")
