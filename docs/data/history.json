@@ -2878,5 +2878,53 @@
         "match_count": 1
       }
     ]
+  },
+  {
+    "timestamp": "2026-02-13T06:09:09.357505+00:00",
+    "total_areas": 400,
+    "matched_areas": 253,
+    "match_rate": 63.25,
+    "summary_by_party": [
+      {
+        "party_code": "PARTY-0037",
+        "match_count": 140
+      },
+      {
+        "party_code": "PARTY-0009",
+        "match_count": 47
+      },
+      {
+        "party_code": "PARTY-0042",
+        "match_count": 44
+      },
+      {
+        "party_code": "PARTY-0027",
+        "match_count": 5
+      },
+      {
+        "party_code": "PARTY-0046",
+        "match_count": 4
+      },
+      {
+        "party_code": "PARTY-0021",
+        "match_count": 4
+      },
+      {
+        "party_code": "PARTY-0033",
+        "match_count": 4
+      },
+      {
+        "party_code": "PARTY-0043",
+        "match_count": 3
+      },
+      {
+        "party_code": "PARTY-0048",
+        "match_count": 1
+      },
+      {
+        "party_code": "PARTY-0044",
+        "match_count": 1
+      }
+    ]
   }
 ]
